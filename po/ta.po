@@ -1,0 +1,3471 @@
+# Tamil translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-01-29 12:18-0300\n"
+"PO-Revision-Date: 2024-12-31 11:53+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language: ta\n"
+"Language-Team: Tamil "
+"<https://hosted.weblate.org/projects/gaphor/gaphor/ta/>\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: gaphor/C4Model/modelinglanguage.py:28 gaphor/C4Model/toolbox.py:57
+#: gaphor/ui/greeter.py:55
+msgid "C4 Model"
+msgstr "C4 மாதிரி"
+
+#: gaphor/C4Model/propertypages.ui:11 gaphor/diagram/general/metadata.py:70
+#: gaphor/diagram/propertypages.ui:170
+msgid "Description"
+msgstr "விளக்கம்"
+
+#: gaphor/C4Model/propertypages.ui:38 gaphor/templates/sysml-example.gaphor
+#: gaphor/templates/sysml.gaphor
+msgid "Technology"
+msgstr "தொழில்நுட்பம்"
+
+#: gaphor/C4Model/toolbox.py:31
+msgid "New Software System"
+msgstr "புதிய மென்பொருள் அமைப்பு"
+
+#: gaphor/C4Model/toolbox.py:38
+msgid "New Container"
+msgstr "புதிய கொள்கலன்"
+
+#: gaphor/C4Model/toolbox.py:45 gaphor/C4Model/toolbox.py:169
+#: gaphor/templates/c4model-example.gaphor
+msgid "Database"
+msgstr "தரவுத்தளம்"
+
+#: gaphor/C4Model/toolbox.py:46
+msgid "New Database"
+msgstr "புதிய தரவுத்தளம்"
+
+#: gaphor/C4Model/toolbox.py:53
+msgid "New Component"
+msgstr "புதிய கூறு"
+
+#: gaphor/C4Model/diagramitems/person.py:24 gaphor/C4Model/toolbox.py:61
+#: gaphor/C4Model/toolbox.py:67 gaphor/C4Model/toolbox.py:167
+msgid "Person"
+msgstr "நபர்"
+
+#: gaphor/C4Model/toolbox.py:73
+msgid "Software System"
+msgstr "மென்பொருள் அமைப்பு"
+
+#: gaphor/C4Model/toolbox.py:85
+msgid "Container"
+msgstr "கொள்கலன்"
+
+#: gaphor/C4Model/toolbox.py:97
+msgid "Container: Database"
+msgstr "கொள்கலன்: தரவுத்தளம்"
+
+#: gaphor/C4Model/toolbox.py:109 gaphor/C4Model/toolbox.py:159
+#: gaphor/UML/classes/classestoolbox.py:63 gaphor/UML/toolbox.py:53
+msgid "Component"
+msgstr "கூறு"
+
+#: gaphor/C4Model/toolbox.py:121 gaphor/RAAML/fta/ftatoolbox.py:16
+#: gaphor/UML/classes/classestoolbox.py:119
+#: gaphor/UML/classes/propertypages.ui:531
+msgid "Dependency"
+msgstr "சார்பு"
+
+#: gaphor/C4Model/toolbox.py:141
+msgid "C4 Diagram"
+msgstr "சி 4 வரைபடம்"
+
+#: gaphor/C4Model/toolbox.py:142 gaphor/UML/toolbox.py:32
+msgid "Class Diagram"
+msgstr "வகுப்பு வரைபடம்"
+
+#: gaphor/C4Model/toolbox.py:143 gaphor/SysML/toolbox.py:138
+#: gaphor/UML/toolbox.py:36
+msgid "Activity Diagram"
+msgstr "செயல்பாட்டு வரைபடம்"
+
+#: gaphor/C4Model/toolbox.py:144 gaphor/SysML/toolbox.py:148
+#: gaphor/UML/toolbox.py:37
+msgid "Sequence Diagram"
+msgstr "வரிசை வரைபடம்"
+
+#: gaphor/C4Model/toolbox.py:145 gaphor/SysML/toolbox.py:158
+#: gaphor/UML/toolbox.py:41
+msgid "State Machine Diagram"
+msgstr "மாநில இயந்திர வரைபடம்"
+
+#: gaphor/C4Model/toolbox.py:146 gaphor/RAAML/toolbox.py:32
+#: gaphor/SysML/toolbox.py:178 gaphor/UML/toolbox.py:44
+msgid "Generic Diagram"
+msgstr "பொதுவான வரைபடம்"
+
+#: gaphor/C4Model/toolbox.py:150 gaphor/RAAML/toolbox.py:36
+#: gaphor/SysML/blocks/blockstoolbox.py:51 gaphor/SysML/toolbox.py:182
+#: gaphor/UML/classes/classestoolbox.py:51 gaphor/UML/toolbox.py:48
+msgid "Package"
+msgstr "தொகுப்பு"
+
+#: gaphor/C4Model/toolbox.py:151 gaphor/SysML/toolbox.py:183
+#: gaphor/UML/actions/actionstoolbox.py:41
+#: gaphor/UML/actions/actionstoolbox.py:68 gaphor/UML/toolbox.py:49
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/uml-example.gaphor
+msgid "Activity"
+msgstr "செய்கைப்பாடு"
+
+#: gaphor/C4Model/toolbox.py:153 gaphor/SysML/toolbox.py:187
+#: gaphor/UML/interactions/interactionstoolbox.py:36
+#: gaphor/UML/interactions/interactionstoolbox.py:57 gaphor/UML/toolbox.py:66
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/uml-example.gaphor
+#: gaphor/templates/uml.gaphor
+msgid "Interaction"
+msgstr "உள்வினை"
+
+#: gaphor/C4Model/toolbox.py:156 gaphor/SysML/toolbox.py:201
+#: gaphor/UML/states/statestoolbox.py:46 gaphor/UML/states/statestoolbox.py:63
+#: gaphor/UML/toolbox.py:72 gaphor/templates/sysml-example.gaphor
+msgid "State Machine"
+msgstr "மாநில இயந்திரம்"
+
+#: gaphor/C4Model/toolbox.py:158 gaphor/UML/classes/classestoolbox.py:29
+#: gaphor/UML/profiles/profilestoolbox.py:14 gaphor/UML/toolbox.py:52
+msgid "Class"
+msgstr "வகுப்பு"
+
+#: gaphor/C4Model/toolbox.py:160 gaphor/UML/toolbox.py:54
+msgid "Data Type"
+msgstr "தரவு வகை"
+
+#: gaphor/C4Model/toolbox.py:162 gaphor/SysML/blocks/blockstoolbox.py:118
+#: gaphor/SysML/toolbox.py:186 gaphor/UML/classes/classestoolbox.py:154
+#: gaphor/UML/toolbox.py:57
+msgid "Enumeration"
+msgstr "கணக்கீடு"
+
+#: gaphor/C4Model/toolbox.py:165
+msgid "Primitive Type"
+msgstr "பழமையான வகை"
+
+#: gaphor/RAAML/modelinglanguage.py:25 gaphor/ui/greeter.py:48
+msgid "RAAML"
+msgstr "சட்டகம்"
+
+#: gaphor/RAAML/toolbox.py:30
+msgid "FTA Diagram"
+msgstr "FTA வரைபடம்"
+
+#: gaphor/RAAML/toolbox.py:31
+msgid "STPA Diagram"
+msgstr "STPA வரைபடம்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:195 gaphor/RAAML/fta/ftatoolbox.py:201
+#: gaphor/RAAML/fta/topevent.py:27 gaphor/RAAML/toolbox.py:37
+msgid "Top Event"
+msgstr "சிறந்த நிகழ்வு"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:17 gaphor/RAAML/stpa/stpatoolbox.py:43
+#: gaphor/RAAML/toolbox.py:38 gaphor/templates/raaml-example.gaphor
+msgid "Loss"
+msgstr "இழப்பு"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:22 gaphor/RAAML/stpa/stpatoolbox.py:52
+#: gaphor/RAAML/toolbox.py:39 gaphor/templates/raaml-example.gaphor
+msgid "Hazard"
+msgstr "இடர்"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:61 gaphor/RAAML/toolbox.py:40
+#: gaphor/SysML/blocks/block.py:57 gaphor/SysML/blocks/interfaceblock.py:56
+msgid "Situation"
+msgstr "நிலைமை"
+
+#: gaphor/RAAML/fta/andgate.py:34 gaphor/RAAML/fta/ftatoolbox.py:24
+msgid "AND Gate"
+msgstr "உம்மை வாயில்"
+
+#: gaphor/RAAML/fta/basicevent.py:32 gaphor/RAAML/fta/ftatoolbox.py:125
+#: gaphor/RAAML/fta/ftatoolbox.py:131
+msgid "Basic Event"
+msgstr "அடிப்படை நிகழ்வு"
+
+#: gaphor/RAAML/fta/conditionalevent.py:29 gaphor/RAAML/fta/ftatoolbox.py:136
+#: gaphor/RAAML/fta/ftatoolbox.py:143
+msgid "Conditional Event"
+msgstr "நிபந்தனை நிகழ்வு"
+
+#: gaphor/RAAML/fta/dormantevent.py:32 gaphor/RAAML/fta/ftatoolbox.py:162
+#: gaphor/RAAML/fta/ftatoolbox.py:168
+msgid "Dormant Event"
+msgstr "செயலற்ற நிகழ்வு"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:12 gaphor/templates/raaml-example.gaphor
+#: gaphor/templates/raaml.gaphor
+msgid "Fault Tree Analysis"
+msgstr "தவறு மர பகுப்பாய்வு"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:30
+msgid "AND"
+msgstr "மற்றும்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:35 gaphor/RAAML/fta/orgate.py:34
+msgid "OR Gate"
+msgstr "அல்லது வாயில்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:41 gaphor/templates/raaml-example.gaphor
+msgid "OR"
+msgstr "அல்லது"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:46 gaphor/RAAML/fta/notgate.py:32
+msgid "NOT Gate"
+msgstr "கேட் அல்ல"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:52
+msgid "NOT"
+msgstr "இல்லை"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:57
+msgid "Sequence Enforcing (SEQ) Gate"
+msgstr "வரிசை செயல்படுத்தும் (SEQ) வாயில்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:63
+msgid "SEQ"
+msgstr "Seq"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:68
+msgid "Exclusive OR Gate"
+msgstr "பிரத்தியேக அல்லது வாயில்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:74
+msgid "XOR"
+msgstr "Xor"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:79 gaphor/RAAML/fta/ftatoolbox.py:86
+#: gaphor/RAAML/fta/majorityvotegate.py:37
+msgid "Majority Vote Gate"
+msgstr "பெரும்பான்மை வாக்கு வாயில்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:92 gaphor/RAAML/fta/ftatoolbox.py:98
+#: gaphor/RAAML/fta/inhibitgate.py:32
+msgid "Inhibit Gate"
+msgstr "வாயிலைத் தடுக்கவும்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:103 gaphor/RAAML/fta/ftatoolbox.py:109
+#: gaphor/RAAML/fta/transferin.py:32
+msgid "Transfer In"
+msgstr "இடமாற்றம்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:114 gaphor/RAAML/fta/ftatoolbox.py:120
+#: gaphor/RAAML/fta/transferout.py:33
+msgid "Transfer Out"
+msgstr "வெளியே மாற்றவும்"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:149 gaphor/RAAML/fta/ftatoolbox.py:156
+#: gaphor/RAAML/fta/undevelopedevent.py:32
+msgid "Undeveloped Event"
+msgstr "வளர்ச்சியடையாத நிகழ்வு"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:173 gaphor/RAAML/fta/ftatoolbox.py:179
+#: gaphor/RAAML/fta/houseevent.py:32
+msgid "House Event"
+msgstr "அவுச் நிகழ்வு"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:184 gaphor/RAAML/fta/ftatoolbox.py:190
+#: gaphor/RAAML/fta/zeroevent.py:33
+msgid "Zero Event"
+msgstr "சுழிய நிகழ்வு"
+
+#: gaphor/RAAML/fta/ftatoolbox.py:206 gaphor/RAAML/fta/ftatoolbox.py:213
+#: gaphor/RAAML/fta/intermediateevent.py:28
+msgid "Intermediate Event"
+msgstr "இடைநிலை நிகழ்வு"
+
+#: gaphor/RAAML/fta/seqgate.py:34
+msgid "Sequence Enforcing Gate"
+msgstr "வரிசை செயல்படுத்தும் வாயில்"
+
+#: gaphor/RAAML/fta/xorgate.py:33
+msgid "XOR Gate"
+msgstr "Xor வாயில்"
+
+#: gaphor/RAAML/stpa/controlaction.py:27 gaphor/RAAML/stpa/stpatoolbox.py:158
+msgid "Control Action"
+msgstr "செயலைக் கட்டுப்படுத்துங்கள்"
+
+#: gaphor/RAAML/stpa/operationalsituation.py:29
+#: gaphor/RAAML/stpa/stpatoolbox.py:127
+msgid "Operational Situation"
+msgstr "செயல்பாட்டு நிலைமை"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:27 gaphor/RAAML/stpa/stpatoolbox.py:116
+#: gaphor/templates/raaml-example.gaphor
+msgid "Abstract Operational Situation"
+msgstr "சுருக்க செயல்பாட்டு நிலைமை"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:35 gaphor/SysML/blocks/blockstoolbox.py:100
+#: gaphor/UML/classes/classestoolbox.py:127
+msgid "Generalization"
+msgstr "பொதுமைப்படுத்தல்"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:72
+msgid "Control Structure"
+msgstr "கட்டுப்பாட்டு அமைப்பு"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:83 gaphor/templates/sysml-example.gaphor
+msgid "Controller"
+msgstr "கட்டுப்படுத்தி"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:94 gaphor/templates/sysml-example.gaphor
+msgid "Actuator"
+msgstr "ஆக்சுவேட்டர்"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:105
+msgid "Controlled Process"
+msgstr "கட்டுப்படுத்தப்பட்ட செயல்முறை"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:138
+#: gaphor/RAAML/stpa/unsafecontrolaction.py:28
+msgid "Unsafe Control Action"
+msgstr "பாதுகாப்பற்ற கட்டுப்பாட்டு நடவடிக்கை"
+
+#: gaphor/RAAML/stpa/stpatoolbox.py:149
+msgid "Relevant To"
+msgstr "பொருத்தமானது"
+
+#: gaphor/SysML/diagramtype.py:42
+msgid "Can’t create “{name}” nested under a “{elem}”"
+msgstr "“{name}” இன் கீழ் கூடு கட்டப்பட்ட “{elem}” ஐ உருவாக்க முடியாது"
+
+#: gaphor/SysML/modelinglanguage.py:25 gaphor/ui/greeter.py:41
+msgid "SysML"
+msgstr "Sysml"
+
+#: gaphor/SysML/propertypages.ui:9
+msgid "Item Flow"
+msgstr "உருப்படி ஓட்டம்"
+
+#: gaphor/SysML/propertypages.ui:20
+msgid "Enable Item Flow"
+msgstr "உருப்படி ஓட்டத்தை இயக்கவும்"
+
+#: gaphor/SysML/propertypages.ui:34
+msgid "Item Property"
+msgstr "உருப்படி சொத்து"
+
+#: gaphor/SysML/propertypages.ui:49 gaphor/UML/classes/propertypages.ui:21
+msgid "Invert direction"
+msgstr "திசை திருப்புதல்"
+
+#: gaphor/SysML/propertypages.ui:65 gaphor/UML/actions/propertypages.ui:221
+msgid "Allocated Type"
+msgstr "ஒதுக்கப்பட்ட வகை"
+
+#: gaphor/SysML/propertypages.ui:86 gaphor/SysML/propertypages.ui:150
+msgid "Compartments"
+msgstr "பெட்டிகள்"
+
+#: gaphor/SysML/propertypages.ui:97
+msgid "Show Parts"
+msgstr "பகுதிகளைக் காட்டு"
+
+#: gaphor/SysML/propertypages.ui:113
+msgid "Show References"
+msgstr "குறிப்புகளைக் காட்டு"
+
+#: gaphor/SysML/propertypages.ui:129 gaphor/SysML/propertypages.ui:161
+msgid "Show Values"
+msgstr "மதிப்புகளைக் காட்டு"
+
+#: gaphor/SysML/propertypages.ui:183
+msgid "Aggregation"
+msgstr "திரள்வு"
+
+#: gaphor/SysML/propertypages.ui:195 gaphor/UML/classes/propertypages.ui:124
+#: gaphor/UML/classes/propertypages.ui:236
+msgid "No aggregation"
+msgstr "திரட்டல் இல்லை"
+
+#: gaphor/SysML/propertypages.ui:196 gaphor/UML/classes/propertypages.ui:125
+#: gaphor/UML/classes/propertypages.ui:237
+msgid "Shared"
+msgstr "பகிரப்பட்டது"
+
+#: gaphor/SysML/propertypages.ui:197 gaphor/UML/classes/propertypages.ui:126
+#: gaphor/UML/classes/propertypages.ui:238
+msgid "Composite"
+msgstr "கூட்டு"
+
+#: gaphor/SysML/propertypages.ui:215
+msgid "Id"
+msgstr "ஐடி"
+
+#: gaphor/SysML/propertypages.ui:229
+msgid "Text"
+msgstr "உரை"
+
+#: gaphor/SysML/propertypages.ui:258
+msgid "Show text"
+msgstr "உரையைக் காட்டு"
+
+#: gaphor/SysML/sysmlfmt.py:10
+msgid "sourceContext: {name}"
+msgstr "fourcecontext: {name}"
+
+#: gaphor/SysML/toolbox.py:52
+msgid "Internal Blocks"
+msgstr "உள் தொகுதிகள்"
+
+#: gaphor/SysML/toolbox.py:56
+msgid "Connector"
+msgstr "இணைப்பி"
+
+#: gaphor/SysML/toolbox.py:63
+msgid "Property"
+msgstr "சொத்து"
+
+#: gaphor/SysML/toolbox.py:72
+msgid "Proxy Port"
+msgstr "பதிலாள் துறைமுகம்"
+
+#: gaphor/SysML/toolbox.py:99
+msgid "Block Definition Diagram"
+msgstr "தொகுதி வரையறை வரைபடம்"
+
+#: gaphor/SysML/toolbox.py:102 gaphor/SysML/toolbox.py:122
+#: gaphor/SysML/toolbox.py:134 gaphor/SysML/toolbox.py:176
+msgid "New Package"
+msgstr "புதிய தொகுப்பு"
+
+#: gaphor/SysML/toolbox.py:106
+msgid "Internal Block Diagram"
+msgstr "உள் தொகுதி வரைபடம்"
+
+#: gaphor/SysML/toolbox.py:113 gaphor/SysML/toolbox.py:114
+msgid "New Block"
+msgstr "புதிய தொகுதி"
+
+#: gaphor/SysML/toolbox.py:119 gaphor/UML/toolbox.py:33
+msgid "Package Diagram"
+msgstr "தொகுப்பு வரைபடம்"
+
+#: gaphor/SysML/toolbox.py:126
+msgid "Requirement Diagram"
+msgstr "தேவை வரைபடம்"
+
+#: gaphor/SysML/toolbox.py:142 gaphor/SysML/toolbox.py:143
+msgid "New Activity"
+msgstr "புதிய செயல்பாடு"
+
+#: gaphor/SysML/toolbox.py:152 gaphor/SysML/toolbox.py:153
+msgid "New Interaction"
+msgstr "புதிய தொடர்பு"
+
+#: gaphor/SysML/toolbox.py:162 gaphor/SysML/toolbox.py:163
+msgid "New State Machine"
+msgstr "புதிய மாநில இயந்திரம்"
+
+#: gaphor/SysML/toolbox.py:168 gaphor/UML/toolbox.py:42
+msgid "Use Case Diagram"
+msgstr "வழக்கு வரைபடத்தைப் பயன்படுத்தவும்"
+
+#: gaphor/SysML/toolbox.py:184 gaphor/UML/toolbox.py:50
+#: gaphor/UML/usecases/usecasetoolbox.py:28 gaphor/templates/uml-example.gaphor
+msgid "Actor"
+msgstr "நடிகர்"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:29 gaphor/SysML/toolbox.py:185
+msgid "Block"
+msgstr "தொகுதி"
+
+#: gaphor/SysML/toolbox.py:189
+msgid "Interface Block"
+msgstr "இடைமுகத் தொகுதி"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:17
+#: gaphor/SysML/toolbox.py:193
+msgid "Requirement"
+msgstr "தேவை"
+
+#: gaphor/SysML/toolbox.py:203 gaphor/UML/toolbox.py:77
+msgid "Use Case"
+msgstr "வழக்கு பயன்படுத்தவும்"
+
+#: gaphor/SysML/toolbox.py:204
+msgid "Value Type"
+msgstr "மதிப்பு வகை"
+
+#: gaphor/SysML/allocations/allocationstoolbox.py:6
+msgid "Allocations"
+msgstr "ஒதுக்கீடுகள்"
+
+#: gaphor/SysML/allocations/allocationstoolbox.py:10
+msgid "Allocate"
+msgstr "ஒதுக்கவும்"
+
+#: gaphor/SysML/allocations/relationships.py:10
+msgid "allocate"
+msgstr "ஒதுக்கவும்"
+
+#: gaphor/SysML/blocks/block.py:59 gaphor/SysML/blocks/interfaceblock.py:58
+msgid "ControlStructure"
+msgstr "கட்டுப்பாட்டு கட்டமைப்பு"
+
+#: gaphor/SysML/blocks/block.py:63
+msgid "block"
+msgstr "தொகுதி"
+
+#: gaphor/SysML/blocks/block.py:74
+msgid "parts"
+msgstr "பாகங்கள்"
+
+#: gaphor/SysML/blocks/block.py:88 gaphor/SysML/blocks/interfaceblock.py:71
+msgid "references"
+msgstr "குறிப்புகள்"
+
+#: gaphor/SysML/blocks/block.py:100 gaphor/SysML/blocks/interfaceblock.py:83
+msgid "values"
+msgstr "மதிப்புகள்"
+
+#: gaphor/SysML/blocks/block.py:119 gaphor/SysML/blocks/interfaceblock.py:102
+msgid "operations"
+msgstr "செயல்பாடுகள்"
+
+#: gaphor/SysML/blocks/block.py:131 gaphor/SysML/blocks/block.py:149
+#: gaphor/SysML/blocks/interfaceblock.py:114
+#: gaphor/SysML/blocks/interfaceblock.py:136
+msgid "unnamed"
+msgstr "பெயரில்லாதது"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:25
+msgid "Blocks"
+msgstr "தொகுதிகள்"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:39
+msgid "InterfaceBlock"
+msgstr "இடைமுகம்"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:63
+#: gaphor/UML/classes/classestoolbox.py:82
+msgid "Composite Association"
+msgstr "கலப்பு சங்கம்"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:73
+#: gaphor/UML/classes/classestoolbox.py:92
+msgid "Shared Association"
+msgstr "பகிரப்பட்ட சங்கம்"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:83
+#: gaphor/UML/classes/classestoolbox.py:102
+#: gaphor/UML/usecases/usecasetoolbox.py:40
+msgid "Association"
+msgstr "தொடர்பு"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:90
+#: gaphor/UML/classes/classestoolbox.py:109
+msgid "Direct Association"
+msgstr "நேரடி சங்கம்"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:107
+msgid "ValueType"
+msgstr "VALUETYPE"
+
+#: gaphor/SysML/blocks/blockstoolbox.py:130
+#: gaphor/UML/classes/classestoolbox.py:166
+msgid "Primitive"
+msgstr "தொடக்கநிலை"
+
+#: gaphor/SysML/blocks/interfaceblock.py:60
+msgid "interfaceblock"
+msgstr "இடைமுகம்தொகுதி"
+
+#: gaphor/SysML/blocks/proxyport.py:39
+msgid "proxy"
+msgstr "பதிலாள்"
+
+#: gaphor/SysML/requirements/relationships.py:12
+msgid "satisfy"
+msgstr "நிறைவு"
+
+#: gaphor/SysML/requirements/relationships.py:23
+msgid "deriveReqt"
+msgstr "வழித்தோன்றல்"
+
+#: gaphor/SysML/requirements/relationships.py:30
+msgid "trace"
+msgstr "சுவடு"
+
+#: gaphor/SysML/requirements/relationships.py:39
+msgid "verify"
+msgstr "சரிபார்க்கவும்"
+
+#: gaphor/SysML/requirements/relationships.py:48
+msgid "refine"
+msgstr "சுத்திகரிக்க"
+
+#: gaphor/SysML/requirements/requirement.py:56
+msgid "requirement"
+msgstr "தேவை"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:13
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Requirements"
+msgstr "தேவைகள்"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:29
+msgid "Satisfy"
+msgstr "நிறைவு"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:36
+msgid "Derive Requirement"
+msgstr "தேவை"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:43
+msgid "Trace"
+msgstr "சுவடு"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:50
+msgid "Refine"
+msgstr "சுத்திகரிக்க"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:57
+msgid "Verify"
+msgstr "சரிபார்"
+
+#: gaphor/SysML/requirements/requirementstoolbox.py:64
+#: gaphor/UML/classes/classestoolbox.py:75
+msgid "Containment"
+msgstr "கட்டுப்பாடு"
+
+#: gaphor/UML/compartments.py:63
+msgid "(from {namespace})"
+msgstr "({namespace})"
+
+#: gaphor/UML/modelinglanguage.py:21 gaphor/ui/greeter.py:34
+msgid "UML"
+msgstr "யுஎம்எல்"
+
+#: gaphor/UML/actions/propertypages.ui:445 gaphor/UML/propertypages.ui:9
+msgid "Type"
+msgstr "வகை"
+
+#: gaphor/UML/propertypages.ui:35
+msgid "Show Type"
+msgstr "வகை காட்டு"
+
+#: gaphor/UML/sanitizerservice.py:106
+msgid ""
+"Removed unused elements from the model: they are not used in any other "
+"diagram."
+msgstr ""
+"மாதிரியிலிருந்து பயன்படுத்தப்படாத கூறுகள் அகற்றப்பட்டன: அவை வேறு எந்த "
+"வரைபடத்திலும் பயன்படுத்தப்படுவதில்லை."
+
+#: gaphor/UML/toolbox.py:34
+msgid "Component Diagram"
+msgstr "கூறு வரைபடம்"
+
+#: gaphor/UML/toolbox.py:35
+msgid "Deployment Diagram"
+msgstr "வரிசைப்படுத்தல் வரைபடம்"
+
+#: gaphor/UML/toolbox.py:39
+msgid "Communication Diagram"
+msgstr "தொடர்பு வரைபடம்"
+
+#: gaphor/UML/toolbox.py:43
+msgid "Profile Diagram"
+msgstr "சுயவிவர வரைபடம்"
+
+#: gaphor/UML/deployments/deploymentstoolbox.py:16 gaphor/UML/toolbox.py:51
+msgid "Artifact"
+msgstr "கலைப்பொருள்"
+
+#: gaphor/UML/deployments/deploymentstoolbox.py:40 gaphor/UML/toolbox.py:55
+msgid "Device"
+msgstr "சாதனம்"
+
+#: gaphor/UML/toolbox.py:61
+msgid "Instance Specification"
+msgstr "நிகழ்வு விவரக்குறிப்பு"
+
+#: gaphor/UML/classes/classestoolbox.py:39 gaphor/UML/toolbox.py:68
+msgid "Interface"
+msgstr "இடைமுகம்"
+
+#: gaphor/UML/deployments/deploymentstoolbox.py:28 gaphor/UML/toolbox.py:69
+msgid "Node"
+msgstr "கணு"
+
+#: gaphor/UML/profiles/profilestoolbox.py:22 gaphor/UML/toolbox.py:70
+msgid "Profile"
+msgstr "சுயவிவரம்"
+
+#: gaphor/UML/profiles/profilestoolbox.py:44 gaphor/UML/toolbox.py:75
+msgid "Stereotype"
+msgstr "ச்டீரியோடைப்"
+
+#: gaphor/UML/actions/actionstoolbox.py:18
+#: gaphor/UML/interactions/interactionstoolbox.py:16
+#: gaphor/UML/states/statestoolbox.py:27 gaphor/UML/toolboxconfig.py:5
+msgid "New {name}"
+msgstr "புதிய {name}"
+
+#: gaphor/UML/treemodel.py:57 gaphor/ui/diagrampage.py:122
+#: gaphor/ui/mainwindow.py:292 gaphor/ui/modelmerge/organize.py:138
+msgid "<None>"
+msgstr "<இல்லை>"
+
+#: gaphor/UML/tests/test_treemodel.py:199 gaphor/UML/treemodel.py:76
+msgid "<Relationships>"
+msgstr "<உறவுகள்>"
+
+#: gaphor/UML/umlfmt.py:22
+msgid "supplier: {name}"
+msgstr "சப்ளையர்: {name}"
+
+#: gaphor/UML/umlfmt.py:86
+msgid "readOnly"
+msgstr "படிக்கமட்டும்"
+
+#: gaphor/UML/umlfmt.py:232
+msgid "general: {name}"
+msgstr "பொது: {name}"
+
+#: gaphor/UML/umlfmt.py:237
+msgid "extend: {name}"
+msgstr "நீட்டிப்பு: {name}"
+
+#: gaphor/UML/umlfmt.py:244
+msgid "include: {name}"
+msgstr "அடங்கும்: {name}"
+
+#: gaphor/UML/actions/actionstoolbox.py:49
+msgid "Swimlane One"
+msgstr "நீச்சல் ஒன்று"
+
+#: gaphor/UML/actions/actionstoolbox.py:53
+msgid "Swimlane Two"
+msgstr "நீச்சல் இரண்டு"
+
+#: gaphor/UML/actions/actionstoolbox.py:59
+msgid "ValueSpecificationAction"
+msgstr "மதிப்புகள் விவரக்குறிப்பு"
+
+#: gaphor/UML/actions/actionstoolbox.py:64
+msgid "Actions"
+msgstr "செயல்கள்"
+
+#: gaphor/UML/actions/actionstoolbox.py:80
+#: gaphor/UML/actions/actionstoolbox.py:86
+#: gaphor/UML/states/propertypages.ui:103
+msgid "Action"
+msgstr "செயல்"
+
+#: gaphor/UML/actions/actionstoolbox.py:92
+msgid "Call behavior action"
+msgstr "அழைப்பு நடத்தை நடவடிக்கை"
+
+#: gaphor/UML/actions/actionstoolbox.py:99
+msgid "CallBehaviorAction"
+msgstr "Callbyhavioraction"
+
+#: gaphor/UML/actions/actionstoolbox.py:106
+msgid "Value specification action"
+msgstr "மதிப்பு விவரக்குறிப்பு நடவடிக்கை"
+
+#: gaphor/UML/actions/actionstoolbox.py:118
+msgid "Initial node"
+msgstr "ஆரம்ப முனை"
+
+#: gaphor/UML/actions/actionstoolbox.py:130
+msgid "Activity final node"
+msgstr "செயல்பாட்டு இறுதி முனை"
+
+#: gaphor/UML/actions/actionstoolbox.py:142
+msgid "Flow final node"
+msgstr "இறுதி முனை ஓட்டம்"
+
+#: gaphor/UML/actions/actionstoolbox.py:154
+msgid "Decision/merge node"
+msgstr "முடிவு/ஒன்றிணைத்தல் முனை"
+
+#: gaphor/UML/actions/actionstoolbox.py:166
+msgid "Fork/join node"
+msgstr "முட்கரண்டி/சேர முனை"
+
+#: gaphor/UML/actions/actionstoolbox.py:178
+#: gaphor/UML/actions/actionstoolbox.py:184
+msgid "Object node"
+msgstr "பொருள் முனை"
+
+#: gaphor/UML/actions/actionstoolbox.py:190
+msgid "Swimlane"
+msgstr "நீச்சல்"
+
+#: gaphor/UML/actions/actionstoolbox.py:202
+msgid "Control flow"
+msgstr "கட்டுப்பாட்டு ஓட்டம்"
+
+#: gaphor/UML/actions/actionstoolbox.py:209
+msgid "Object flow"
+msgstr "பொருள் ஓட்டம்"
+
+#: gaphor/UML/actions/actionstoolbox.py:216
+msgid "Send signal action"
+msgstr "சமிக்ஞை நடவடிக்கை அனுப்பவும்"
+
+#: gaphor/UML/actions/actionstoolbox.py:222
+msgid "Send signal"
+msgstr "சிக்னலை அனுப்பவும்"
+
+#: gaphor/UML/actions/actionstoolbox.py:228
+msgid "Accept event action"
+msgstr "நிகழ்வு நடவடிக்கையை ஏற்றுக்கொள்ளுங்கள்"
+
+#: gaphor/UML/actions/actionstoolbox.py:234
+msgid "Accept event"
+msgstr "நிகழ்வை ஏற்றுக்கொள்ளுங்கள்"
+
+#: gaphor/UML/actions/actionstoolbox.py:240
+msgid "Input pin"
+msgstr "உள்ளீட்டு முள்"
+
+#: gaphor/UML/actions/actionstoolbox.py:247
+msgid "Output pin"
+msgstr "வெளியீட்டு முள்"
+
+#: gaphor/UML/actions/activitynodes.py:182
+msgid "merge/decision"
+msgstr "ஒன்றிணைத்தல்/முடிவு"
+
+#: gaphor/UML/actions/activitynodes.py:184
+msgid "merge"
+msgstr "ஒன்றிணைக்கவும்"
+
+#: gaphor/UML/actions/activitynodes.py:186
+msgid "decision"
+msgstr "முடிவு"
+
+#: gaphor/UML/actions/activitypropertypage.py:148
+msgid "New Parameter…"
+msgstr "புதிய அளவுரு…"
+
+#: gaphor/UML/actions/objectnode.py:14 gaphor/UML/actions/propertypages.ui:157
+msgid "unordered"
+msgstr "வரிசைப்படுத்தப்படாதது"
+
+#: gaphor/UML/actions/objectnode.py:15 gaphor/UML/actions/propertypages.ui:158
+msgid "ordered"
+msgstr "உத்தரவிடப்பட்டது"
+
+#: gaphor/UML/actions/objectnode.py:16
+msgid "LIFO"
+msgstr "லிஃபோ"
+
+#: gaphor/UML/actions/objectnode.py:17
+msgid "FIFO"
+msgstr "ஃபிஃபோ"
+
+#: gaphor/UML/actions/objectnode.py:45
+msgid "upperBound"
+msgstr "மேல்"
+
+#: gaphor/UML/actions/objectnode.py:55
+msgid "ordering"
+msgstr "வரிசைப்படுத்துதல்"
+
+#: gaphor/UML/actions/partitionpage.py:115
+msgid "New Swimlane"
+msgstr "புதிய நீச்சல்"
+
+#: gaphor/UML/actions/pin.py:58
+msgid "input pin"
+msgstr "உள்ளீட்டு முள்"
+
+#: gaphor/UML/actions/pin.py:64
+msgid "output pin"
+msgstr "வெளியீட்டு முள்"
+
+#: gaphor/UML/actions/propertypages.ui:11
+msgid "Show type"
+msgstr "வகை காட்டு"
+
+#: gaphor/UML/actions/propertypages.ui:37
+msgid "Horizontal"
+msgstr "கிடைமட்டமாக"
+
+#: gaphor/UML/actions/propertypages.ui:59
+msgid "Join Specification"
+msgstr "விவரக்குறிப்பில் சேரவும்"
+
+#: gaphor/UML/actions/propertypages.ui:89
+msgid "Swimlanes"
+msgstr "நீச்சல்"
+
+#: gaphor/UML/actions/propertypages.ui:100
+msgid "Partitions"
+msgstr "பகிர்வுகள்"
+
+#: gaphor/UML/actions/propertypages.ui:130
+msgid "Upper Bound"
+msgstr "மேல் பிணைப்பு"
+
+#: gaphor/UML/actions/propertypages.ui:145
+msgid "Ordering"
+msgstr "வரிசைப்படுத்துதல்"
+
+#: gaphor/UML/actions/propertypages.ui:159
+msgid "Last In First Out (LIFO)"
+msgstr "லாச்ட் இன் ஃபர்ச்ட் அவுட் (LIFO)"
+
+#: gaphor/UML/actions/propertypages.ui:160
+msgid "First In First Out (FIFO)"
+msgstr "முதல் அவுட்டில் முதல் (ஃபிஃபோ)"
+
+#: gaphor/UML/actions/propertypages.ui:178
+msgid "Show Ordering"
+msgstr "ஆர்டர் செய்வதைக் காட்டு"
+
+#: gaphor/UML/actions/propertypages.ui:209
+#: gaphor/UML/profiles/propertypages.ui:9 gaphor/diagram/propertypages.ui:53
+msgid "Name"
+msgstr "பெயர்"
+
+#: gaphor/UML/actions/propertypages.ui:244
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Behavior"
+msgstr "நடத்தை"
+
+#: gaphor/UML/actions/propertypages.ui:268
+msgid "Value"
+msgstr "மதிப்பு"
+
+#: gaphor/UML/actions/propertypages.ui:289
+#: gaphor/UML/states/propertypages.ui:90
+msgid "Guard"
+msgstr "காவலர்"
+
+#: gaphor/UML/actions/propertypages.ui:312
+#: gaphor/UML/actions/propertypages.ui:368
+msgid "Parameter Nodes"
+msgstr "அளவுரு முனைகள்"
+
+#: gaphor/UML/actions/propertypages.ui:324
+#: gaphor/UML/classes/propertypages.ui:66
+#: gaphor/UML/classes/propertypages.ui:178
+#: gaphor/UML/classes/propertypages.ui:297
+#: gaphor/UML/classes/propertypages.ui:589
+#: gaphor/UML/classes/propertypages.ui:702
+msgid "ⓘ Help"
+msgstr "Ⓘ உதவி"
+
+#: gaphor/UML/actions/propertypages.ui:341
+msgid ""
+"Add and edit class activity according to UML syntax.\n"
+"\n"
+"  • <tt>attr</tt> (name, defaults to public visibility)\n"
+"  • <tt>+ attr: int</tt> (public with type)\n"
+"  • <tt>+ attr: int[0..1]</tt> (public, type, and multiplicity)\n"
+"  • <tt>+ attr: int | bool</tt> (public, union type)\n"
+"  • <tt># /attr: int # a note</tt> (protected, derived, with remark)\n"
+"\n"
+"Press <b>Enter</b> to edit, <b>Backspace</b>/<b>Delete</b> to remove "
+"items.\n"
+"Use <b>-</b>/<b>=</b> to move items up or down."
+msgstr ""
+"யுஎம்எல் தொடரியல் படி வகுப்பு செயல்பாட்டைச் சேர்த்து திருத்தவும்.\n"
+"\n"
+" • <tt> attr</tt> (பெயர், பொது தெரிவுநிலைக்கு இயல்புநிலை)\n"
+" • <tt>+ attr: int </tt> (வகையுடன் பொது)\n"
+" • <tt>+ attr: int [0..1] </tt> (பொது, வகை மற்றும் பெருக்கம்)\n"
+" • <tt>+ attr: int | bool </tt> (பொது, சங்க வகை)\n"
+" • <tt> # /attr: int # ஒரு குறிப்பு </tt> (பாதுகாக்கப்பட்டது, "
+"பெறப்பட்டது, கருத்துடன்)\n"
+"\n"
+" திருத்துவதற்கு <b> Enter </b> ஐ அழுத்தவும், <b> பின்வெளி</b>/<b> "
+"நீக்கு</b>உருப்படிகளை அகற்ற.\n"
+" உருப்படிகளை மேலே அல்லது கீழ் நோக்கி நகர்த்த <b>-</b>/<b> = </b> ஐப் "
+"பயன்படுத்தவும்."
+
+#: gaphor/UML/actions/propertypages.ui:391
+msgid "Direction"
+msgstr "திசை"
+
+#: gaphor/UML/actions/propertypages.ui:403
+msgid "In/Out"
+msgstr "உள்ளே/வெளியே"
+
+#: gaphor/UML/actions/propertypages.ui:404
+msgid "In"
+msgstr "இல்"
+
+#: gaphor/UML/actions/propertypages.ui:405
+msgid "Out"
+msgstr "வெளியே"
+
+#: gaphor/UML/actions/propertypages.ui:406
+msgid "Return"
+msgstr "திரும்ப"
+
+#: gaphor/UML/actions/propertypages.ui:424
+#: gaphor/UML/classes/propertypages.ui:11
+msgid "Show Direction"
+msgstr "திசையைக் காட்டு"
+
+#: gaphor/UML/actions/propertypages.ui:462
+msgid "Multiplicity"
+msgstr "பெருக்கல்"
+
+#: gaphor/UML/classes/classespropertypages.py:275
+msgid "New Attribute…"
+msgstr "புதிய பண்புக்கூறு…"
+
+#: gaphor/UML/classes/classespropertypages.py:466
+msgid "New Operation…"
+msgstr "புதிய செயல்பாடு…"
+
+#: gaphor/UML/classes/classestoolbox.py:25
+msgid "Classes"
+msgstr "வகுப்புகள்"
+
+#: gaphor/UML/classes/classestoolbox.py:135
+msgid "Interface Realization"
+msgstr "இடைமுக உணர்தல்"
+
+#: gaphor/UML/classes/classestoolbox.py:142
+msgid "DataType"
+msgstr "டேட்டாடைப்"
+
+#: gaphor/UML/classes/datatype.py:55
+msgid "primitive"
+msgstr "தொடக்கநிலை"
+
+#: gaphor/UML/classes/datatype.py:57 gaphor/UML/classes/enumeration.py:66
+msgid "valueType"
+msgstr "மதிப்புவகை"
+
+#: gaphor/UML/classes/datatype.py:59
+msgid "dataType"
+msgstr "தரவுவகை"
+
+#: gaphor/UML/classes/dependency.py:43
+msgid "use"
+msgstr "பயன்படுத்தவும்"
+
+#: gaphor/UML/classes/dependency.py:44
+msgid "realize"
+msgstr "உணருங்கள்"
+
+#: gaphor/UML/classes/dependency.py:45
+msgid "implements"
+msgstr "கருவிகள்"
+
+#: gaphor/UML/classes/enumeration.py:68
+msgid "enumeration"
+msgstr "கணக்கீடு"
+
+#: gaphor/UML/classes/enumerationpropertypages.py:129
+msgid "New Enumeration…"
+msgstr "புதிய கணக்கீடு…"
+
+#: gaphor/UML/classes/interface.py:276
+msgid "interface"
+msgstr "இடைமுகம்"
+
+#: gaphor/UML/classes/klass.py:48
+msgid "stereotype"
+msgstr "ஒரேமாதிரியான"
+
+#: gaphor/UML/classes/klass.py:50
+msgid "metaclass"
+msgstr "மெட்டாக்ளாச்"
+
+#: gaphor/UML/classes/package.py:30
+msgid "profile"
+msgstr "தன்வயவிவரம்"
+
+#: gaphor/UML/classes/propertypages.ui:54
+msgid "Head:"
+msgstr "தலை:"
+
+#: gaphor/UML/classes/propertypages.ui:83
+#: gaphor/UML/classes/propertypages.ui:195
+msgid ""
+"Add and edit association ends according to UML syntax.\n"
+"\n"
+"  • <tt>+ name</tt>\n"
+"  • <tt>+ name[1]</tt>\n"
+"  • <tt>- name[1..2]</tt>\n"
+"  • <tt>1..2</tt>\n"
+"  • <tt>- [1..2]</tt>\n"
+"\n"
+"Press <b>Enter</b> to edit, <b>Backspace</b>/<b>Delete</b> to remove "
+"items.\n"
+"Use <b>-</b>/<b>=</b> to move items up or down."
+msgstr ""
+"யுஎம்எல் தொடரியல் படி சங்கம் முடிவுகளைச் சேர்த்து திருத்தவும்.\n"
+"\n"
+" • <tt>+ பெயர் </tt>\n"
+" • <tt>+ பெயர் [1] </tt>\n"
+" • <tt>- பெயர் [1..2] </tt>\n"
+" • <tt> 1..2 </tt>\n"
+" • <tt>- [1..2] </tt>\n"
+"\n"
+" திருத்துவதற்கு <b> Enter </b> ஐ அழுத்தவும், <b> பின்வெளி</b>/<b> நீக்கு "
+"</b>உருப்படிகளை அகற்ற.\n"
+" உருப்படிகளை மேலே அல்லது கீழ் நோக்கி நகர்த்த <b>-</b>/<b> = </b> ஐப் "
+"பயன்படுத்தவும்."
+
+#: gaphor/UML/classes/propertypages.ui:110
+#: gaphor/UML/classes/propertypages.ui:222
+msgid "Unknown navigation"
+msgstr "அறியப்படாத வழிசெலுத்தல்"
+
+#: gaphor/UML/classes/propertypages.ui:111
+#: gaphor/UML/classes/propertypages.ui:223
+msgid "Not navigable"
+msgstr "செல்ல முடியாதது அல்ல"
+
+#: gaphor/UML/classes/propertypages.ui:112
+#: gaphor/UML/classes/propertypages.ui:224
+msgid "Navigable"
+msgstr "செல்லக்கூடியது"
+
+#: gaphor/UML/classes/propertypages.ui:144
+#: gaphor/UML/classes/propertypages.ui:256
+#: gaphor/UML/profiles/propertypages.ui:33
+#: gaphor/UML/profiles/propertypages.ui:51
+msgid "Stereotypes"
+msgstr "ச்டீரியோடைப்கள்"
+
+#: gaphor/UML/classes/propertypages.ui:149
+#: gaphor/UML/classes/propertypages.ui:261
+#: gaphor/UML/profiles/propertypages.ui:56
+msgid "Values"
+msgstr "மதிப்புகள்"
+
+#: gaphor/UML/classes/propertypages.ui:166
+msgid "Tail:"
+msgstr "வால்:"
+
+#: gaphor/UML/classes/propertypages.ui:285
+#: gaphor/UML/classes/propertypages.ui:341
+msgid "Attributes"
+msgstr "பண்புக்கூறுகள்"
+
+#: gaphor/UML/classes/propertypages.ui:314
+msgid ""
+"Add and edit class attributes according to UML syntax.\n"
+"\n"
+"  • <tt>attr</tt> (name, defaults to public visibility)\n"
+"  • <tt>+ attr: int</tt> (public with type)\n"
+"  • <tt>+ attr: int[0..1]</tt> (public, type, and multiplicity)\n"
+"  • <tt>+ attr: int | bool</tt> (public, union type)\n"
+"  • <tt># /attr: int # a note</tt> (protected, derived, with remark)\n"
+"\n"
+"Press <b>Enter</b> to edit, <b>Backspace</b>/<b>Delete</b> to remove "
+"items.\n"
+"Use <b>-</b>/<b>=</b> to move items up or down."
+msgstr ""
+"யுஎம்எல் தொடரியல் படி வகுப்பு பண்புகளைச் சேர்த்து திருத்தவும்.\n"
+"\n"
+" • <tt> அட்ரிட் </tt> (பெயர், பொது தெரிவுநிலைக்கு இயல்புநிலை)\n"
+" • <tt>+ attr: int </tt> (வகையுடன் பொது)\n"
+" • <tt>+ attr: int [0..1] </tt> (பொது, வகை மற்றும் பெருக்கம்)\n"
+" • <tt>+ attr: int | bool </tt> (பொது, தொழிற்சங்க வகை)\n"
+" • <tt> # /attr: int # a குறிப்பு </tt> (பாதுகாக்கப்பட்டது, பெறப்பட்டது, "
+"கருத்துடன்)\n"
+"\n"
+" திருத்துவதற்கு <b> Enter </b> ஐ அழுத்தவும், <b> பின்வெளி</b>/<b> "
+"நீக்கு</b> உருப்படிகளை அகற்ற.\n"
+" உருப்படிகளை மேலே அல்லது கீழ் நோக்கி நகர்த்த <b>-</b>/<b> = </b> ஐப் "
+"பயன்படுத்தவும்."
+
+#: gaphor/UML/classes/propertypages.ui:347
+msgid "ReadOnly"
+msgstr "படிக்கமட்டும்"
+
+#: gaphor/UML/classes/propertypages.ui:352
+#: gaphor/UML/classes/propertypages.ui:642
+msgid "Static"
+msgstr "நிலையான"
+
+#: gaphor/UML/classes/propertypages.ui:376
+msgid "Show Attributes"
+msgstr "பண்புகளைக் காட்டு"
+
+#: gaphor/UML/classes/propertypages.ui:400
+#: gaphor/UML/classes/propertypages.ui:637
+msgid "Abstract"
+msgstr "சுருக்கம்"
+
+#: gaphor/UML/classes/propertypages.ui:417
+msgid "Final specialization"
+msgstr "இறுதி நிபுணத்துவம்"
+
+#: gaphor/UML/classes/propertypages.ui:442
+msgid "Source:"
+msgstr "ஆதாரம்:"
+
+#: gaphor/UML/classes/propertypages.ui:466
+msgid "Target:"
+msgstr "இலக்கு:"
+
+#: gaphor/UML/classes/propertypages.ui:502
+msgid "Dependency type"
+msgstr "சார்பு வகை"
+
+#: gaphor/UML/classes/propertypages.ui:513
+msgid "Automatic"
+msgstr "தானியங்கி"
+
+#: gaphor/UML/classes/propertypages.ui:532
+msgid "Usage"
+msgstr "பயன்பாடு"
+
+#: gaphor/UML/classes/propertypages.ui:533
+msgid "Realization"
+msgstr "உணர்தல்"
+
+#: gaphor/UML/classes/propertypages.ui:534
+msgid "Implementation"
+msgstr "செயல்படுத்தல்"
+
+#: gaphor/UML/classes/propertypages.ui:553
+msgid "Folded"
+msgstr "மடிந்தது"
+
+#: gaphor/UML/classes/propertypages.ui:577
+#: gaphor/UML/classes/propertypages.ui:631
+msgid "Operations"
+msgstr "செயல்பாடுகள்"
+
+#: gaphor/UML/classes/propertypages.ui:604
+msgid ""
+"Add and edit class operations according to UML syntax.\n"
+"\n"
+"  • <tt>call()</tt>\n"
+"  • <tt>+ call(a: int[*], b: str): bool</tt> (public, parameters)\n"
+"  • <tt># call(a: int, b: str) # a note</tt> (protected, with remark)\n"
+"\n"
+"Press <b>Enter</b> to edit, <b>Backspace</b>/<b>Delete</b> to remove "
+"items.\n"
+"Use <b>-</b>/<b>=</b> to move items up or down."
+msgstr ""
+"யுஎம்எல் தொடரியல் படி வகுப்பு செயல்பாடுகளைச் சேர்த்து திருத்தவும்.\n"
+"\n"
+" • <tt> அழை() </tt>\n"
+" • <tt>+ அழை(a: int [*], b: str): bool </tt> (பொது, அளவுருக்கள்)\n"
+" • <tt> # அழை(a: int, b:str) # ஒரு குறிப்பு </tt> (பாதுகாக்கப்பட்டது, "
+"கருத்துடன்)\n"
+"\n"
+" திருத்துவதற்கு <b> Enter </b> ஐ அழுத்தவும், <b> பின்வெளி</b>/<b> "
+"நீக்கு</b> உருப்படிகளை அகற்ற.\n"
+" உருப்படிகளை மேலே அல்லது கீழ் நோக்கி நகர்த்த <b>-</b>/<b> = </b> ஐப் "
+"பயன்படுத்தவும்."
+
+#: gaphor/UML/classes/propertypages.ui:666
+msgid "Show Operations"
+msgstr "செயல்பாடுகளைக் காட்டு"
+
+#: gaphor/UML/classes/propertypages.ui:690
+#: gaphor/UML/classes/propertypages.ui:741
+msgid "Enumeration Literals"
+msgstr "கணக்கீட்டு எழுத்துக்கள்"
+
+#: gaphor/UML/classes/propertypages.ui:714
+msgid ""
+"Add and edit enumeration literals according to UML syntax.\n"
+"\n"
+"  • <tt>enum</tt>\n"
+"\n"
+"Press <b>Enter</b> to edit, <b>Backspace</b>/<b>Delete</b> to remove "
+"items.\n"
+"Use <b>-</b>/<b>=</b> to move items up or down."
+msgstr ""
+"யுஎம்எல் தொடரியல் படி கணக்கீட்டு எழுத்துக்களைச் சேர்த்து திருத்தவும்.\n"
+"\n"
+" • <tt> enum </tt>\n"
+"\n"
+" திருத்துவதற்கு <b> Enter </b> ஐ அழுத்தவும், <b> பின்வெளி</b>/<b> "
+"நீக்கு</b> உருப்படிகளை அகற்ற.\n"
+" உருப்படிகளை மேலே அல்லது கீழ் நோக்கி நகர்த்த <b>-</b>/<b> = </b> ஐப் "
+"பயன்படுத்தவும்."
+
+#: gaphor/UML/classes/propertypages.ui:766
+msgid "Show Enumeration Literals"
+msgstr "கணக்கீட்டு எழுத்துக்களைக் காட்டு"
+
+#: gaphor/UML/classes/propertypages.ui:791
+msgid "Indirectly Instantiated"
+msgstr "மறைமுகமாக உடனடிப்படுத்தியது"
+
+#: gaphor/UML/deployments/deploymentstoolbox.py:12
+msgid "Deployments"
+msgstr "வரிசைப்படுத்தல்"
+
+#: gaphor/UML/deployments/node.py:47
+msgid "device"
+msgstr "சாதனம்"
+
+#: gaphor/UML/general/generaltoolbox.py:21
+#: gaphor/UML/general/imagepropertypage.py:66
+msgid "New Image"
+msgstr "புதிய படம்"
+
+#: gaphor/UML/general/generaltoolbox.py:25 gaphor/ui/help/shortcuts.ui:34
+msgid "General"
+msgstr "பொது"
+
+#: gaphor/UML/general/generaltoolbox.py:29
+msgid "Pointer"
+msgstr "சுட்டிக்காட்டி"
+
+#: gaphor/UML/general/generaltoolbox.py:36
+msgid "Magnet"
+msgstr "காந்தம்"
+
+#: gaphor/UML/general/generaltoolbox.py:43
+msgid "Line"
+msgstr "வரி"
+
+#: gaphor/UML/general/generaltoolbox.py:50
+msgid "Box"
+msgstr "பெட்டி"
+
+#: gaphor/UML/general/generaltoolbox.py:58
+msgid "Ellipse"
+msgstr "நீள்வட்டம்"
+
+#: gaphor/UML/general/generaltoolbox.py:66 gaphor/diagram/propertypages.ui:9
+msgid "Comment"
+msgstr "கருத்து"
+
+#: gaphor/UML/general/generaltoolbox.py:74
+msgid "Comment line"
+msgstr "கருத்து வரி"
+
+#: gaphor/UML/general/generaltoolbox.py:81
+msgid "Diagram metadata"
+msgstr "வரைபடம் மேனிலை தரவு"
+
+#: gaphor/UML/general/generaltoolbox.py:88
+msgid "Picture"
+msgstr "படம்"
+
+#: gaphor/UML/general/imagepropertypage.py:43
+msgid "Select a picture..."
+msgstr "ஒரு படத்தைத் தேர்ந்தெடுக்கவும் ..."
+
+#: gaphor/UML/general/imagepropertypage.py:71
+msgid "Unable to parse picture “{filename}”."
+msgstr "படத்தை அலச முடியவில்லை “{filename}”."
+
+#: gaphor/UML/interactions/interactionsconnect.py:76
+msgid "call()"
+msgstr "அழைப்பு ()"
+
+#: gaphor/UML/interactions/interactionstoolbox.py:53
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Interactions"
+msgstr "இடைவினைகள்"
+
+#: gaphor/UML/interactions/interactionstoolbox.py:69
+msgid "Lifeline"
+msgstr "உயிர்நாடி"
+
+#: gaphor/UML/interactions/interactionstoolbox.py:81
+msgid "Execution Specification"
+msgstr "சாவுஒறுப்பு விவரக்குறிப்பு"
+
+#: gaphor/UML/interactions/interactionstoolbox.py:89
+msgid "Message"
+msgstr "செய்தி"
+
+#: gaphor/UML/interactions/interactionstoolbox.py:96
+msgid "Reflexive message"
+msgstr "பிரதிபலிப்பு செய்தி"
+
+#: gaphor/UML/interactions/propertypages.ui:9
+msgid "Message Sort"
+msgstr "செய்தி வரிசை"
+
+#: gaphor/UML/interactions/propertypages.ui:21
+msgid "Call"
+msgstr "அழைப்பு"
+
+#: gaphor/UML/interactions/propertypages.ui:22
+msgid "Asynchronous"
+msgstr "ஒத்திசைவற்ற"
+
+#: gaphor/UML/interactions/propertypages.ui:23
+msgid "Signal"
+msgstr "குறிகை"
+
+#: gaphor/UML/interactions/propertypages.ui:24
+msgid "Reply"
+msgstr "பதில்"
+
+#: gaphor/UML/interactions/propertypages.ui:25
+msgid "Create"
+msgstr "உருவாக்கு"
+
+#: gaphor/UML/interactions/propertypages.ui:26
+msgid "Delete"
+msgstr "நீக்கு"
+
+#: gaphor/UML/interactions/propertypages.ui:42
+msgid "Connectable Element"
+msgstr "இணைக்கக்கூடிய உறுப்பு"
+
+#: gaphor/UML/profiles/packageimport.py:23
+msgid "import"
+msgstr "இறக்குமதி"
+
+#: gaphor/UML/profiles/profilestoolbox.py:18
+msgid "Profiles"
+msgstr "சுயவிவரங்கள்"
+
+#: gaphor/UML/profiles/profilestoolbox.py:34
+msgid "Metaclass"
+msgstr "மெட்டாக்ளாச்"
+
+#: gaphor/UML/profiles/profilestoolbox.py:56
+msgid "Extension"
+msgstr "நீட்டிப்பு"
+
+#: gaphor/UML/profiles/profilestoolbox.py:63
+msgid "Import"
+msgstr "இறக்குமதி"
+
+#: gaphor/UML/profiles/propertypages.ui:80
+msgid "Show Stereotypes"
+msgstr "ச்டீரியோடைப்களைக் காட்டு"
+
+#: gaphor/UML/profiles/stereotypepropertypages.py:172
+msgid "New Slot Value…"
+msgstr "புதிய ச்லாட் மதிப்பு…"
+
+#: gaphor/UML/states/propertypages.ui:9
+msgid "Activities"
+msgstr "நடவடிக்கைகள்"
+
+#: gaphor/UML/states/propertypages.ui:18
+msgid "Entry"
+msgstr "நுழைவு"
+
+#: gaphor/UML/states/propertypages.ui:35
+msgid "Exit"
+msgstr "வெளியேறு"
+
+#: gaphor/UML/states/propertypages.ui:52
+msgid "Do activity"
+msgstr "செயல்பாடு செய்யுங்கள்"
+
+#: gaphor/UML/states/propertypages.ui:77
+msgid "Trigger"
+msgstr "தூண்டுதல்"
+
+#: gaphor/UML/states/propertypages.ui:129
+#: gaphor/UML/states/propertypages.ui:140
+msgid "Regions"
+msgstr "பகுதிகள்"
+
+#: gaphor/UML/states/propertypages.ui:157
+msgid "Show Regions"
+msgstr "பகுதிகளைக் காட்டு"
+
+#: gaphor/UML/states/statemachine.py:41
+msgid "statemachine"
+msgstr "StateMachine"
+
+#: gaphor/UML/states/statestoolbox.py:16 gaphor/UML/states/statestoolbox.py:75
+msgid "State"
+msgstr "மாநிலம்"
+
+#: gaphor/UML/states/statestoolbox.py:59
+msgid "States"
+msgstr "மாநிலங்கள்"
+
+#: gaphor/UML/states/statestoolbox.py:87
+msgid "Initial Pseudostate"
+msgstr "ஆரம்ப சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:99
+msgid "Final State"
+msgstr "இறுதி நிலை"
+
+#: gaphor/UML/states/statestoolbox.py:111
+msgid "Transition"
+msgstr "மாற்றம்"
+
+#: gaphor/UML/states/statestoolbox.py:118
+msgid "Shallow History Pseudostate"
+msgstr "ஆழமற்ற வரலாறு சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:130
+msgid "Deep History Pseudostate"
+msgstr "ஆழமான வரலாறு சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:142
+msgid "Join Pseudostate"
+msgstr "சூடோச்டேட்டில் சேரவும்"
+
+#: gaphor/UML/states/statestoolbox.py:154
+msgid "Fork Pseudostate"
+msgstr "ஃபோர்க் சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:166
+msgid "Junction Pseudostate"
+msgstr "சந்தி சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:178
+msgid "Choice Pseudostate"
+msgstr "தேர்வு சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:190
+msgid "Entry Point Pseudostate"
+msgstr "நுழைவு புள்ளி சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:202
+msgid "Exit Point Pseudostate"
+msgstr "வெளியேறு புள்ளி சூடோச்டேட்"
+
+#: gaphor/UML/states/statestoolbox.py:214
+msgid "Terminate Pseudostate"
+msgstr "சூடோச்டேட்டை நிறுத்தவும்"
+
+#: gaphor/UML/usecases/extend.py:19
+msgid "extend"
+msgstr "நீட்டிக்க"
+
+#: gaphor/UML/usecases/include.py:19
+msgid "include"
+msgstr "அடங்கும்"
+
+#: gaphor/UML/usecases/usecasetoolbox.py:12
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Use Cases"
+msgstr "வழக்குகளைப் பயன்படுத்துங்கள்"
+
+#: gaphor/UML/usecases/usecasetoolbox.py:16
+msgid "Use case"
+msgstr "பயன்படுத்தும் வழக்கு"
+
+#: gaphor/UML/usecases/usecasetoolbox.py:47
+msgid "Include"
+msgstr "அடங்கும்"
+
+#: gaphor/UML/usecases/usecasetoolbox.py:55
+msgid "Extend"
+msgstr "நீட்டிக்க"
+
+#: gaphor/diagram/propertypages.py:319
+msgid "Presentation"
+msgstr "விளக்கக்காட்சி"
+
+#: gaphor/diagram/propertypages.py:320 gaphor/diagram/propertypages.py:333
+msgid "class"
+msgstr "வகுப்பு"
+
+#: gaphor/diagram/propertypages.py:321 gaphor/diagram/propertypages.py:334
+msgid "id"
+msgstr "அடையாளம்"
+
+#: gaphor/diagram/propertypages.py:331
+msgid "Model Element"
+msgstr "மாதிரி உறுப்பு"
+
+#: gaphor/diagram/propertypages.py:332
+msgid "qname"
+msgstr "Qname"
+
+#: gaphor/diagram/propertypages.ui:74
+msgid "Style"
+msgstr "சூல் தண்டு"
+
+#: gaphor/diagram/propertypages.ui:87
+msgid "Rectilinear"
+msgstr "ரெக்டிலினியர்"
+
+#: gaphor/diagram/propertypages.ui:107
+msgid "Flip orientation"
+msgstr "ஃபிளிப் நோக்குநிலை"
+
+#: gaphor/diagram/propertypages.ui:130
+msgid "Note"
+msgstr "குறிப்பு"
+
+#: gaphor/diagram/general/metadata.py:43 gaphor/diagram/propertypages.ui:156
+msgid "Created By"
+msgstr "உருவாக்கியது"
+
+#: gaphor/diagram/general/metadata.py:53 gaphor/diagram/propertypages.ui:184
+msgid "Website"
+msgstr "வலைத்தளம்"
+
+#: gaphor/diagram/general/metadata.py:84 gaphor/diagram/propertypages.ui:198
+msgid "Revision"
+msgstr "திருத்தம்"
+
+#: gaphor/diagram/general/metadata.py:94 gaphor/diagram/propertypages.ui:212
+msgid "License"
+msgstr "உரிமம்"
+
+#: gaphor/diagram/general/metadata.py:105 gaphor/diagram/propertypages.ui:226
+msgid "Created On"
+msgstr "உருவாக்கப்பட்டது"
+
+#: gaphor/diagram/general/metadata.py:116 gaphor/diagram/propertypages.ui:240
+msgid "Updated On"
+msgstr "புதுப்பிக்கப்பட்டது"
+
+#: gaphor/diagram/propertypages.ui:261
+msgid "Select picture..."
+msgstr "படத்தைத் தேர்ந்தெடுக்கவும் ..."
+
+#: gaphor/diagram/propertypages.ui:267
+msgid "Set default size"
+msgstr "இயல்புநிலை அளவை அமைக்கவும்"
+
+#: gaphor/diagram/propertypages.ui:280
+msgid "Internals of focused item"
+msgstr "கவனம் செலுத்திய உருப்படியின் உள்"
+
+#: gaphor/diagram/propertypages.ui:297 gaphor/ui/elementeditor.py:410
+#: gaphor/ui/elementeditor.ui:200
+msgid "No focused item."
+msgstr "கவனம் செலுத்திய உருப்படி இல்லை."
+
+#: gaphor/diagram/propertypages.ui:319 gaphor/diagram/styleeditor.ui:5
+msgid "Style Editor"
+msgstr "பாணி ஆசிரியர்"
+
+#: gaphor/diagram/propertypages.ui:328
+msgid "Open Style Editor"
+msgstr "திறந்த பாணி ஆசிரியர்"
+
+#: gaphor/diagram/styleeditor.ui:27
+msgid "Border Radius"
+msgstr "எல்லை ஆரம்"
+
+#: gaphor/diagram/styleeditor.ui:51
+msgid "Color"
+msgstr "நிறம்"
+
+#: gaphor/diagram/styleeditor.ui:68
+msgid "Background Color"
+msgstr "பின்னணி நிறம்"
+
+#: gaphor/diagram/styleeditor.ui:85
+msgid "Text Color"
+msgstr "உரை நிறம்"
+
+#: gaphor/diagram/styleeditor.ui:99
+msgid "Add to Style Sheet"
+msgstr "பாணி சீட்டில் சேர்க்கவும்"
+
+#: gaphor/diagram/tools/dnd.py:50
+msgid "Element can’t be represented on a diagram."
+msgstr "ஒரு வரைபடத்தில் உறுப்பை குறிப்பிட முடியாது."
+
+#: gaphor/extensions/sphinx.py:66
+msgid "No model file configured for model '{model_name}'."
+msgstr "மாதிரி '{model_name}' க்கு மாதிரி கோப்பு கட்டமைக்கப்படவில்லை."
+
+#: gaphor/extensions/sphinx.py:93
+msgid "No diagram '{name}' in model '{model_name}' ({model_file})."
+msgstr "மாதிரியில் '{name}' எந்த வரைபடமும் இல்லை '{model_name}' ({model_file})."
+
+#: gaphor/plugins/autolayout/pydot.py:45
+msgid "Auto Layout"
+msgstr "ஆட்டோ தளவமைப்பு"
+
+#: gaphor/plugins/autolayout/pydot.py:53
+msgid "Auto Layout (orthogonal)"
+msgstr "ஆட்டோ -ஆர்த்தோகனல்)"
+
+#: gaphor/plugins/console/console.py:23
+msgid ""
+"Gaphor Interactive Python Console\n"
+"{version}\n"
+"Type \"help\" for more information.\n"
+msgstr ""
+"கஃபர் ஊடாடும் பைதான் கன்சோல்\n"
+" {version}\n"
+" மேலும் தகவலுக்கு \"உதவி\" என்று தட்டச்சு செய்க.\n"
+
+#: gaphor/plugins/console/consolewindow.py:38
+msgid "Console"
+msgstr "கன்சோல்"
+
+#: gaphor/plugins/console/consolewindow.py:57
+msgid "Gaphor Console"
+msgstr "கஃபர் கன்சோல்"
+
+#: gaphor/plugins/diagramexport/export.py:54
+msgid "All {ext} Files"
+msgstr "அனைத்து {ext} கோப்புகள்"
+
+#: gaphor/plugins/diagramexport/export.py:68
+msgid "Export as SVG"
+msgstr "எச்.வி.சி என ஏற்றுமதி"
+
+#: gaphor/plugins/diagramexport/export.py:69
+#: gaphor/plugins/diagramexport/export.py:74
+msgid "Export diagram as SVG"
+msgstr "எச்.வி.சி என ஏற்றுமதி வரைபடம்"
+
+#: gaphor/plugins/diagramexport/export.py:79
+msgid "Export as PNG"
+msgstr "Png ஆக ஏற்றுமதி"
+
+#: gaphor/plugins/diagramexport/export.py:80
+#: gaphor/plugins/diagramexport/export.py:85
+msgid "Export diagram as PNG"
+msgstr "Png ஆக ஏற்றுமதி வரைபடம்"
+
+#: gaphor/plugins/diagramexport/export.py:90
+msgid "Export as PDF"
+msgstr "PDF ஆக ஏற்றுமதி"
+
+#: gaphor/plugins/diagramexport/export.py:91
+#: gaphor/plugins/diagramexport/export.py:97
+msgid "Export diagram as PDF"
+msgstr "PDF ஆக ஏற்றுமதி வரைபடம்"
+
+#: gaphor/plugins/diagramexport/export.py:105
+msgid "Export as EPS"
+msgstr "இபிஎச் என ஏற்றுமதி"
+
+#: gaphor/plugins/diagramexport/export.py:106
+msgid "Export diagram as Encapsulated PostScript"
+msgstr "இணைக்கப்பட்ட போச்ட்ச்கிரிப்டாக வரைபடத்தை ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:112
+msgid "Export diagram as EPS"
+msgstr "வரைபடத்தை EPS ஆக ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:120
+msgid "Export all diagrams as SVG"
+msgstr "அனைத்து வரைபடங்களையும் எச்.வி.சி என ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:121
+msgid "Export all diagrams as SVG diagrams in a specifieddirectory"
+msgstr ""
+"அனைத்து வரைபடங்களையும் எச்.வி.சி வரைபடங்களாக ஒரு குறிப்பிட்ட அடைவில் "
+"ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:125
+#: gaphor/plugins/diagramexport/export.py:143
+#: gaphor/plugins/diagramexport/export.py:161
+#: gaphor/plugins/diagramexport/export.py:179
+msgid "Export all diagrams"
+msgstr "அனைத்து வரைபடங்களையும் ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:138
+msgid "Export all diagrams as PNG"
+msgstr "அனைத்து வரைபடங்களையும் png ஆக ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:139
+msgid "Export all diagrams as PNG diagrams in a specifieddirectory"
+msgstr ""
+"அனைத்து வரைபடங்களையும் PNG வரைபடங்களாக ஒரு குறிப்பிட்ட அடைவில் ஏற்றுமதி "
+"செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:156
+msgid "Export all diagrams as PDF"
+msgstr "அனைத்து வரைபடங்களையும் PDF ஆக ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:157
+msgid "Export all diagrams as PDF diagrams in a specifieddirectory"
+msgstr ""
+"அனைத்து வரைபடங்களையும் ஒரு குறிப்பிட்ட கோப்பகத்தில் PDF வரைபடமாக ஏற்றுமதி"
+" செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:174
+msgid "Export all diagrams as EPS"
+msgstr "அனைத்து வரைபடங்களையும் EPS ஆக ஏற்றுமதி செய்யுங்கள்"
+
+#: gaphor/plugins/diagramexport/export.py:175
+msgid "Export all diagrams as EPS diagrams in a specifieddirectory"
+msgstr ""
+"அனைத்து வரைபடங்களையும் EPS வரைபடங்களாக ஒரு குறிப்பிட்ட அடைவில் ஏற்றுமதி "
+"செய்யுங்கள்"
+
+#: gaphor/plugins/errorreports/errorreports.py:60
+#: gaphor/plugins/errorreports/errorreports.ui:6
+msgid "Error Reports"
+msgstr "பிழை அறிக்கைகள்"
+
+#: gaphor/plugins/errorreports/errorreports.py:95
+msgid "No errors have been intercepted. We’re good."
+msgstr "பிழைகள் எதுவும் தடுத்து நிறுத்தப்படவில்லை. நாங்கள் நல்லவர்கள்."
+
+#: gaphor/plugins/errorreports/errorreports.py:99
+msgid "Errors:"
+msgstr "பிழைகள்:"
+
+#: gaphor/plugins/errorreports/errorreports.py:148
+msgid ""
+"An unexpected error occurred.\n"
+"Please file an issue on GitHub and include information from Tools → Error"
+" Reports."
+msgstr ""
+"எதிர்பாராத பிழை ஏற்பட்டது.\n"
+" தயவுசெய்து கிட்அப்பில் ஒரு சிக்கலைத் தாக்கல் செய்து கருவிகள் → பிழை "
+"அறிக்கைகளிலிருந்து தகவல்களைச் சேர்க்கவும்."
+
+#: gaphor/plugins/errorreports/errorreports.ui:23
+msgid ""
+"Any unhandled errors are shown here. You can use these to provide extra "
+"information when you create an issue on GitHub."
+msgstr ""
+"எந்தவொரு பிழைகள் இங்கே காட்டப்பட்டுள்ளன. கிதுபில் சிக்கலை உருவாக்கும்போது"
+" கூடுதல் தகவல்களை வழங்க இவற்றைப் பயன்படுத்தலாம்."
+
+#: gaphor/storage/recovery.py:154
+msgid "This model contains unsaved changes. The changes have been restored."
+msgstr ""
+"இந்த மாதிரியில் சேமிக்கப்படாத மாற்றங்கள் உள்ளன. மாற்றங்கள் "
+"மீட்டமைக்கப்பட்டுள்ளன."
+
+#: gaphor/templates/blank.gaphor gaphor/ui/mainwindow.py:273
+#: gaphor/ui/mainwindow.py:278 gaphor/ui/mainwindow.ui:125
+msgid "New model"
+msgstr "புதிய மாதிரி"
+
+#: gaphor/templates/blank.gaphor gaphor/ui/modelbrowser.py:207
+msgid "New Diagram"
+msgstr "புதிய வரைபடம்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "1. Context diagrams"
+msgstr "1. சூழல் வரைபடங்கள்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "2. Container diagrams"
+msgstr "2. கொள்கலன் வரைபடங்கள்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "4. Code diagrams"
+msgstr "4. குறியீடு வரைபடங்கள்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "3. Component diagrams"
+msgstr "3. கூறு வரைபடங்கள்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "Context diagram"
+msgstr "சூழல் வரைபடம்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "Container diagram"
+msgstr "கொள்கலன் வரைபடம்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "Component diagram"
+msgstr "கூறு வரைபடம்"
+
+#: gaphor/templates/c4model-example.gaphor gaphor/templates/c4model.gaphor
+msgid "Code diagram"
+msgstr "குறியீடு வரைபடம்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Personal Banking Customer"
+msgstr "தனிப்பட்ட வங்கி வாடிக்கையாளர்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Internet Banking System"
+msgstr "இணைய வங்கி அமைப்பு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Mainframe Banking System"
+msgstr "மெயின்பிரேம் வங்கி அமைப்பு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "View account balances, and make payments using"
+msgstr "கணக்கு நிலுவைகளைக் காண்க, மற்றும் பயன்படுத்தி பணம் செலுத்துங்கள்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Get account information from, and makes payments using"
+msgstr "கணக்குத் தகவல்களைப் பெறுங்கள், மேலும் பணம் செலுத்துகின்றன"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "E-mail System"
+msgstr "மின்னஞ்சல் அமைப்பு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Sends e-mail to"
+msgstr "மின்னஞ்சல் அனுப்புகிறது"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Sends e-mail using"
+msgstr "பயன்படுத்தி மின்னஞ்சல் அனுப்பவும்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Web Application"
+msgstr "வலை பயன்பாடு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "API Application"
+msgstr "பநிஇ விண்ணப்பம்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Single-Page Application"
+msgstr "ஒற்றை பக்க பயன்பாடு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Mobile App"
+msgstr "மொபைல் பயன்பாடு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Visit bigbank.com/lb using"
+msgstr "Bigbank.com/lb ஐப் பயன்படுத்தி"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "View account balances and make payments using"
+msgstr "கணக்கு நிலுவைகளைக் காண்க மற்றும் பயன்படுத்தி பணம் செலுத்துங்கள்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Makes API calls to"
+msgstr "பநிஇ அழைப்புகளைச் செய்கிறது"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Reads from, writes to"
+msgstr "இருந்து படிக்கிறது, எழுதுகிறது"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Delivers"
+msgstr "வழங்குகிறது"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Sign In Controller"
+msgstr "கட்டுப்படுத்தியில் உள்நுழைக"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Security Component"
+msgstr "பாதுகாப்பு கூறு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Reset Password Controller"
+msgstr "கடவுச்சொல் கட்டுப்படுத்தியை மீட்டமைக்கவும்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "E-mail Component"
+msgstr "மின்னஞ்சல் கூறு"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Account Summary Controller"
+msgstr "கணக்கு சுருக்கம் கட்டுப்படுத்தி"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Mainframe Banking System Facade"
+msgstr "மெயின்பிரேம் வங்கி அமைப்பு முகப்பில்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid "Uses"
+msgstr "பயன்பாடுகள்"
+
+#: gaphor/templates/c4model-example.gaphor
+msgid ""
+"Makes API calls to\n"
+"[JSON/HTTPS]"
+msgstr ""
+"பநிஇ அழைப்புகளைச் செய்கிறது\n"
+" [JSON/HTTPS]"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Model Name Here"
+msgstr "மாதிரி பெயர் இங்கே"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "STPA"
+msgstr "Stpa"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "Loss Definition"
+msgstr "இழப்பு வரையறை"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "FTA"
+msgstr "Fta"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Loss of System"
+msgstr "அமைப்பு இழப்பு"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Loss of Subsystem 1"
+msgstr "துணை அமைப்பு 1 இழப்பு"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Loss of Subsystem 2"
+msgstr "துணை அமைப்பின் இழப்பு 2"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "Hazard Definition"
+msgstr "இடர் வரையறை"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Loss of Life or Injury of People"
+msgstr "உயிர் இழப்பு அல்லது மக்களின் உடல்"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Loss of Mission"
+msgstr "பணி இழப்பு"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Loss of Customer Satisfaction"
+msgstr "வாடிக்கையாளர் நிறைவு இழப்பு"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Hazard 2"
+msgstr "இடர் 2"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Hazard 1"
+msgstr "இடர் 1"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "Mapping of Losses and Hazards"
+msgstr "இழப்புகள் மற்றும் ஆபத்துகளின் வரைபடம்"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "Operational Situations"
+msgstr "செயல்பாட்டு சூழ்நிலைகள்"
+
+#: gaphor/templates/raaml-example.gaphor
+msgid "Operational Situation 1"
+msgstr "செயல்பாட்டு நிலைமை 1"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "Context of UCAs"
+msgstr "யு.சி.ஏ.க்களின் சூழல்"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "Situational Context"
+msgstr "சூழ்நிலை சூழல்"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid "Situation Hierarchy"
+msgstr "நிலைமை வரிசைமுறை"
+
+#: gaphor/templates/raaml-example.gaphor gaphor/templates/raaml.gaphor
+msgid ""
+"The fault tree analysis shows which causes for the failure of a system "
+"have been considered."
+msgstr ""
+"தவறான மர பகுப்பாய்வு ஒரு அமைப்பின் தோல்விக்கு எந்த காரணங்கள் "
+"கருதப்படுகின்றன என்பதைக் காட்டுகிறது."
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "1. Concept Level"
+msgstr "1. கருத்து நிலை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "2. Logical Level"
+msgstr "2. தருக்க நிலை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "3. Technology Level"
+msgstr "3. தொழில்நுட்ப நிலை"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "User"
+msgstr "பயனர்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Use Case #1"
+msgstr "வழக்கு #1 ஐப் பயன்படுத்தவும்"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Structure"
+msgstr "கட்டமைப்பு"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Feature Domain"
+msgstr "அம்ச டொமைன்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Operator"
+msgstr "ஆபரேட்டர்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Feature"
+msgstr "நற்பொருத்தம்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "External Element"
+msgstr "வெளிப்புற உறுப்பு"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Concept Requirements"
+msgstr "கருத்து தேவைகள்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Feature User Need"
+msgstr "அம்ச பயனர் தேவை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Logical Structure"
+msgstr "தருக்க அமைப்பு"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Sensor"
+msgstr "உணரி"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "sensor"
+msgstr "உணரி"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "controller"
+msgstr "கட்டுப்படுத்தி"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Logical Boundary"
+msgstr "தருக்க எல்லை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Technology Structure"
+msgstr "தொழில்நுட்ப அமைப்பு"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Technology Boundary"
+msgstr "தொழில்நுட்ப எல்லை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Technology Requirements"
+msgstr "தொழில்நுட்ப தேவைகள்"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Detailed Behavior"
+msgstr "விரிவான நடத்தை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Logical Requirements"
+msgstr "தர்க்கரீதியான தேவைகள்"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Logical States"
+msgstr "தருக்க நிலைகள்"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Feature Event Flow"
+msgstr "அம்ச நிகழ்வு ஓட்டம்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Off"
+msgstr "அணை"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "On"
+msgstr "ஆன்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "actuator"
+msgstr "வினையாற்றி"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Use Case Function #1"
+msgstr "வழக்கு செயல்பாடு #1 ஐப் பயன்படுத்தவும்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "First Action"
+msgstr "முதல் நடவடிக்கை"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Second Action"
+msgstr "இரண்டாவது நடவடிக்கை"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Example System Requirement"
+msgstr "எடுத்துக்காட்டு அமைப்பு தேவை"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Sensed Data"
+msgstr "உணரப்பட்ட தரவு"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Command"
+msgstr "கட்டளை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Functional Boundary Behavior"
+msgstr "செயல்பாட்டு எல்லை நடத்தை"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Determine Actuator Command"
+msgstr "ஆக்சுவேட்டர் கட்டளையை தீர்மானிக்கவும்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Actuate Actuator"
+msgstr "வினையாற்றியை உந்திவிடு"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Example Technology Requirement"
+msgstr "எடுத்துக்காட்டு தொழில்நுட்ப தேவை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/ui/help/preferences.ui:20
+msgid "System"
+msgstr "மண்டலம்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "ECU"
+msgstr "ECU"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "DC Motor"
+msgstr "ஒருதிசை மின்னோட்ட மின்னோடி"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "IR Transceiver"
+msgstr "ஐஆர் டிரான்ச்சீவர்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "ecu"
+msgstr "இசியு"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "dc Motor"
+msgstr "ஒருதிசைமின்னோட்ட மின்னோடி"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "ir Transceiver"
+msgstr "ஐஆர் செலுத்துப்பெறுவி"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Detect Obstacle"
+msgstr "தடையை கண்டறியவும்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Command Reverse"
+msgstr "கட்டளை தலைகீழ்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Reverse Motor"
+msgstr "தலைகீழ் மின்னோடி"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Detect Object"
+msgstr "பொருளைக் கண்டறியவும்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Detection Event"
+msgstr "கண்டறிதல் நிகழ்வு"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Feature Context"
+msgstr "அம்ச சூழல்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Read Input"
+msgstr "உள்ளீட்டைப் படியுங்கள்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "FeatureInput"
+msgstr "நற்பொருத்தம்உள்ளீடு"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Request Actuation"
+msgstr "செயல்பாட்டைக் கோருங்கள்"
+
+#: gaphor/templates/sysml-example.gaphor
+msgid "Actuation Command"
+msgstr "செயல்பாட்டு கட்டளை"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Model Navigation"
+msgstr "மாதிரி வழிசெலுத்தல்"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Concept"
+msgstr "கருத்துரு"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Logical"
+msgstr "தர்க்கரீதியான"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Pillar"
+msgstr "மாத்திரைகள்"
+
+#: gaphor/templates/sysml-example.gaphor gaphor/templates/sysml.gaphor
+msgid "Abstraction Level"
+msgstr "சுருக்க நிலை"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "1. Use Cases"
+msgstr "1. வழக்குகளைப் பயன்படுத்துங்கள்"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "2. Domain Analysis"
+msgstr "2. டொமைன் பகுப்பாய்வு"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "3. Architectural Design"
+msgstr "3. கட்டடக்கலை வடிவமைப்பு"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "4. Detailed Design"
+msgstr "4. விரிவான வடிவமைப்பு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Main Actor"
+msgstr "முக்கிய நடிகர்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Main Use Case"
+msgstr "முக்கிய பயன்பாட்டு வழக்கு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Included Use Case"
+msgstr "சேர்க்கப்பட்ட பயன்பாட்டு வழக்கு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Secondary Actor"
+msgstr "இரண்டாம் நிலை நடிகர்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Secondary Use Case"
+msgstr "இரண்டாம் நிலை பயன்பாட்டு வழக்கு"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Use Case Scenarios"
+msgstr "வழக்கு காட்சிகளைப் பயன்படுத்தவும்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Scenario 1"
+msgstr "காட்சி 1"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Scenario 2"
+msgstr "காட்சி 2"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Domain Entities"
+msgstr "டொமைன் நிறுவனங்கள்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Software Task"
+msgstr "மென்பொருள் பணி"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "performs"
+msgstr "செய்கிறது"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Package Dependencies"
+msgstr "தொகுப்பு சார்புநிலைகள்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "SW Component 1"
+msgstr "SW கூறு 1"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "SW Component 4"
+msgstr "SW கூறு 4"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "SW Component 3"
+msgstr "SW கூறு 3"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "SW Component 2"
+msgstr "SW கூறு 2"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Primary Actor"
+msgstr "முதன்மை நடிகர்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Actor Profile"
+msgstr "நடிகர் சுயவிவரம்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "login"
+msgstr "புகுபதிவு"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Detailed Class Design"
+msgstr "விரிவான வகுப்பு வடிவமைப்பு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "First Class"
+msgstr "முதல் வகுப்பு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "firstName"
+msgstr "முதல் பெயர்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "lastName"
+msgstr "கடைசி பெயர்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Login"
+msgstr "புகுபதிவு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "lastLogin"
+msgstr "லாச்ட்லோசின்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Second Class"
+msgstr "இரண்டாம் வகுப்பு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "released"
+msgstr "வெளியிடப்பட்டது"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Implementation Architecture"
+msgstr "செயல்படுத்தல் கட்டமைப்பு"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Node 1"
+msgstr "முனை 1"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Artifact 1"
+msgstr "கலைப்பொருள் 1"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Node 2"
+msgstr "முனை 2"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "protocol"
+msgstr "நெறிமுறை"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Artifact 2"
+msgstr "கலைப்பொருள் 2"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid ""
+"Analyze functional requirements by\n"
+"identifying user roles – actors – and\n"
+"associating them to their use cases."
+msgstr ""
+"மூலம் செயல்பாட்டு தேவைகளை பகுப்பாய்வு செய்யுங்கள்\n"
+" பயனர் பாத்திரங்களை அடையாளம் காணுதல் - நடிகர்கள் - மற்றும்\n"
+" அவற்றின் பயன்பாட்டு வழக்குகளுடன் அவர்களை தொடர்புபடுத்துதல்."
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid ""
+"Model abstract use case implementation by creating activity diagrams "
+"visualizing activity flows for primary and secondary use case scenarios."
+msgstr ""
+"முதன்மை மற்றும் இரண்டாம் நிலை பயன்பாட்டு வழக்கு காட்சிகளுக்கான "
+"செயல்பாட்டு ஓட்டங்களை காட்சிப்படுத்தும் செயல்பாட்டு வரைபடங்களை "
+"உருவாக்குவதன் மூலம் மாதிரி சுருக்க பயன்பாட்டு வழக்கு செயல்படுத்தல்."
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid ""
+"Perform domain analysis by modeling domain entities and their "
+"relationships using simplified class diagram. This diagram will serve as "
+"a visual dictionary of concepts. It will also be a starting point for "
+"your design-level data model."
+msgstr ""
+"எளிமைப்படுத்தப்பட்ட வகுப்பு வரைபடத்தைப் பயன்படுத்தி டொமைன் நிறுவனங்கள் "
+"மற்றும் அவற்றின் உறவுகளை மாடலிங் செய்வதன் மூலம் டொமைன் பகுப்பாய்வைச் "
+"செய்யுங்கள். இந்த வரைபடம் கருத்துகளின் காட்சி அகராதியாக செயல்படும். இது "
+"உங்கள் வடிவமைப்பு-நிலை தரவு மாதிரிக்கான தொடக்க புள்ளியாக இருக்கும்."
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid ""
+"Prepare package dependencies diagram to group your implementation classes"
+" in appropriate way. This will help you maintain the code well structured"
+" and avoid design flaws such as cyclic dependencies or dependencies on "
+"unstable parts"
+msgstr ""
+"உங்கள் செயல்படுத்தல் வகுப்புகளை பொருத்தமான வழியில் தொகுக்க தொகுப்பு "
+"சார்பு வரைபடத்தைத் தயாரிக்கவும். இது நன்கு கட்டமைக்கப்பட்ட குறியீட்டை "
+"பராமரிக்கவும், சுழற்சி சார்புகள் அல்லது நிலையற்ற பகுதிகளில் சார்புகள் "
+"போன்ற வடிவமைப்பு குறைபாடுகளைத் தவிர்க்கவும் உதவும்"
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid ""
+"Model component interactions for use case scenarios in order to find out "
+"new methods in\n"
+"existing classes or even new classes with specific responsibilities."
+msgstr ""
+"பயன்பாட்டிற்கான மாதிரி கூறு இடைவினைகள் புதிய முறைகளைக் கண்டறிய வழக்கு "
+"காட்சிகள்\n"
+" தற்போதுள்ள வகுப்புகள் அல்லது குறிப்பிட்ட பொறுப்புகளைக் கொண்ட புதிய "
+"வகுப்புகள் கூட."
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid "Create detailed class diagrams to capture your object-oriented data model."
+msgstr ""
+"உங்கள் பொருள் சார்ந்த தரவு மாதிரியைப் பிடிக்க விரிவான வகுப்பு வரைபடங்களை "
+"உருவாக்கவும்."
+
+#: gaphor/templates/uml-example.gaphor gaphor/templates/uml.gaphor
+msgid ""
+"Define the major artifacts that manifest implementation of your "
+"components. Indicate how they are deployed on hardware nodes, their "
+"inter-dependencies and communication protocols."
+msgstr ""
+"உங்கள் கூறுகளைச் செயல்படுத்துவதை வெளிப்படுத்தும் முக்கிய கலைப்பொருட்களை "
+"வரையறுக்கவும். வன்பொருள் முனைகளில் அவை எவ்வாறு பயன்படுத்தப்படுகின்றன, "
+"அவற்றின் இடை-சார்புநிலைகள் மற்றும் செய்தி தொடர்பு நெறிமுறைகள் ஆகியவற்றைக்"
+" குறிக்கவும்."
+
+#: gaphor/templates/uml-example.gaphor
+msgid "String"
+msgstr "சரம்"
+
+#: gaphor/templates/uml-example.gaphor
+msgid "Date"
+msgstr "திகதி"
+
+#: gaphor/ui/appfilemanager.py:36
+msgid "Open a Model"
+msgstr "ஒரு மாதிரியைத் திறக்கவும்"
+
+#: gaphor/ui/appfilemanager.py:51
+msgid "Switch to {name}?"
+msgstr "{name} என மாற்றவா?"
+
+#: gaphor/ui/appfilemanager.py:52
+msgid ""
+"{name} is already opened. Do you want to switch to the opened window "
+"instead?"
+msgstr ""
+"{name} ஏற்கனவே திறக்கப்பட்டுள்ளது. அதற்கு பதிலாக திறந்த சாளரத்திற்கு மாற "
+"விரும்புகிறீர்களா?"
+
+#: gaphor/ui/appfilemanager.py:63
+msgid "Open Again"
+msgstr "மீண்டும் திறக்கவும்"
+
+#: gaphor/ui/appfilemanager.py:64
+msgid "Switch"
+msgstr "ஆளி, நிலைமாறி"
+
+#: gaphor/ui/diagrampage.py:367
+msgid "Show in Model Browser"
+msgstr "மாதிரி உலாவியில் காட்டு"
+
+#: gaphor/ui/diagrampage.ui:29 gaphor/ui/help/shortcuts.ui:111
+msgid "Undo"
+msgstr "செயல்தவிர்"
+
+#: gaphor/ui/diagrampage.ui:44 gaphor/ui/help/shortcuts.ui:118
+msgid "Redo"
+msgstr "மீண்டும்செய்"
+
+#: gaphor/ui/diagrampage.ui:66 gaphor/ui/help/shortcuts.ui:198
+msgid "Zoom Out"
+msgstr "சிறிதாக்கு"
+
+#: gaphor/ui/diagrampage.ui:81 gaphor/ui/help/shortcuts.ui:205
+msgid "Reset Zoom"
+msgstr "பெரிதாக்கு மீட்டமைக்கவும்"
+
+#: gaphor/ui/diagrampage.ui:96 gaphor/ui/help/shortcuts.ui:191
+msgid "Zoom In"
+msgstr "பெரிதாக்கு"
+
+#: gaphor/ui/diagrampage.ui:117
+#, fuzzy
+msgid "Align selected elements"
+msgstr "இணைக்கக்கூடிய உறுப்பு"
+
+#: gaphor/ui/diagrampage.ui:132
+msgid "Align Left"
+msgstr "இடதுபுறம் சீரமைக்கவும்"
+
+#: gaphor/ui/diagrampage.ui:137
+msgid "Align Right"
+msgstr "வலதுபுறம் சீரமைக்கவும்"
+
+#: gaphor/ui/diagrampage.ui:142
+#, fuzzy
+msgid "Align Vertical Center"
+msgstr "கிடைமட்ட மையத்தை சீரமைக்கவும்"
+
+#: gaphor/ui/diagrampage.ui:149
+msgid "Align Top"
+msgstr "மேலே சீரமைக்கவும்"
+
+#: gaphor/ui/diagrampage.ui:154
+msgid "Align Bottom"
+msgstr "கீழே சீரமைக்கவும்"
+
+#: gaphor/ui/diagrampage.ui:159
+msgid "Align Horizontal Center"
+msgstr "கிடைமட்ட மையத்தை சீரமைக்கவும்"
+
+#: gaphor/ui/diagrampage.ui:166
+msgid "Max Width"
+msgstr "அதிகபட்ச அகலம்"
+
+#: gaphor/ui/diagrampage.ui:171
+msgid "Max Height"
+msgstr "அதிகபட்ச உயரம்"
+
+#: gaphor/ui/diagrampage.ui:176
+msgid "Max Size"
+msgstr "அதிகபட்ச அளவு"
+
+#: gaphor/ui/diagrams.py:322
+#, fuzzy
+msgid "Selected element is not in present in this diagram."
+msgstr "ஒரு வரைபடத்தில் உறுப்பை குறிப்பிட முடியாது."
+
+#: gaphor/ui/diagrams.ui:12
+msgid "Open a Diagram"
+msgstr "ஒரு வரைபடத்தைத் திறக்கவும்"
+
+#: gaphor/ui/diagrams.ui:14
+msgid ""
+"Open a diagram from the model browser, or\n"
+"create a new diagram from the New diagram menu."
+msgstr ""
+"மாதிரி உலாவியில் இருந்து ஒரு வரைபடத்தைத் திறக்கவும், அல்லது\n"
+" புதிய வரைபட மெனுவிலிருந்து புதிய வரைபடத்தை உருவாக்கவும்."
+
+#: gaphor/ui/elementeditor.ui:12
+msgid "No item selected"
+msgstr "உருப்படி எதுவும் தேர்ந்தெடுக்கப்படவில்லை"
+
+#: gaphor/ui/elementeditor.ui:24
+msgid "Show Tips"
+msgstr "உதவிக்குறிப்புகளைக் காட்டு"
+
+#: gaphor/ui/elementeditor.ui:45
+msgid ""
+"Add a model element from the tool box (bottom left) to the diagram. Here "
+"you will see its properties appear."
+msgstr ""
+"கருவி பெட்டியிலிருந்து (கீழ் இடது) வரைபடத்தில் ஒரு மாதிரி உறுப்பைச் "
+"சேர்க்கவும். அதன் பண்புகள் தோன்றுவதை இங்கே காண்பீர்கள்."
+
+#: gaphor/ui/elementeditor.ui:53
+msgid "This pane can be hidden by clicking the pane icon in the header."
+msgstr ""
+"தலைப்பில் உள்ள பலக ஐகானைக் சொடுக்கு செய்வதன் மூலம் இந்த பலகத்தை மறைக்க "
+"முடியும்."
+
+#: gaphor/ui/elementeditor.ui:61
+msgid ""
+"<b>Tip:</b> Most elements in the toolbox have a keyboard shortcut (e.g. "
+"\"c\" for Class). Tool selection only works from the diagram. If a tool "
+"does not get selected, click on the diagram once (so it's focused) and "
+"then hit the shortcut key."
+msgstr ""
+"<b> உதவிக்குறிப்பு: </b> கருவிப்பெட்டியில் உள்ள பெரும்பாலான கூறுகள் "
+"விசைப்பலகை குறுக்குவழியைக் கொண்டுள்ளன (எ.கா. வகுப்பிற்கு \"சி\"). கருவி "
+"தேர்வு வரைபடத்திலிருந்து மட்டுமே செயல்படுகிறது. ஒரு கருவி "
+"தேர்ந்தெடுக்கப்படாவிட்டால், ஒரு முறை வரைபடத்தைக் சொடுக்கு செய்க (எனவே இது"
+" கவனம் செலுத்துகிறது) பின்னர் குறுக்குவழி விசையை அழுத்தவும்."
+
+#: gaphor/ui/elementeditor.ui:69
+msgid ""
+"<b>Tip:</b> To search for an element in the model browser (top left), "
+"select an element in the model browser and start typing. A search box "
+"will automatically appear."
+msgstr ""
+"<b> உதவிக்குறிப்பு: </b> மாதிரி உலாவியில் ஒரு உறுப்பைத் தேட (மேல் இடது), "
+"மாதிரி உலாவியில் ஒரு உறுப்பைத் தேர்ந்தெடுத்து தட்டச்சு செய்யத் "
+"தொடங்குங்கள். ஒரு தேடல் பெட்டி தானாகவே தோன்றும்."
+
+#: gaphor/ui/elementeditor.ui:91
+msgid "Editors"
+msgstr "ஆசிரியர்கள்"
+
+#: gaphor/ui/elementeditor.ui:116 gaphor/ui/greeter.ui:14
+#: gaphor/ui/help/preferences.ui:6 gaphor/ui/help/shortcuts.ui:39
+#: gaphor/ui/mainwindow.py:61
+msgid "Preferences"
+msgstr "விருப்பத்தேர்வுகள்"
+
+#: gaphor/ui/elementeditor.ui:127
+msgid "Style Sheet"
+msgstr "பாணி சீட்"
+
+#: gaphor/ui/elementeditor.ui:140
+msgid "Diagram Language"
+msgstr "வரைபடம் மொழி"
+
+#: gaphor/ui/elementeditor.ui:142 gaphor/ui/elementeditor.ui:150
+msgid "The (natural) language used in this model."
+msgstr "இந்த மாதிரியில் பயன்படுத்தப்படும் (இயற்கை) மொழி."
+
+#: gaphor/ui/elementeditor.ui:158
+#, fuzzy
+msgid "CSS Editor"
+msgstr "பாணி ஆசிரியர்"
+
+#: gaphor/ui/elementeditor.ui:186
+msgid "CSS nodes of focused item"
+msgstr "கவனம் செலுத்திய உருப்படியின் சிஎச்எச் முனைகள்"
+
+#: gaphor/ui/elementeditor.ui:211
+msgid ""
+"🔗 <a href=\"https://docs.gaphor.org/en/latest/style_sheets.html\">Style "
+"sheets in Gaphor</a>"
+msgstr ""
+"🔗 <a href = \"https://docs.gaphor.org/en/latest/style_sheets.html\"> "
+"gaphor இல் பாணி தாள்கள் </a>"
+
+#: gaphor/ui/elementeditor.ui:225
+msgid "Merge Models"
+msgstr "மாதிரிகளை ஒன்றிணைக்கவும்"
+
+#: gaphor/ui/elementeditor.ui:236
+msgid "Merge Model Changes"
+msgstr "மாதிரி மாற்றங்களை ஒன்றிணைக்கவும்"
+
+#: gaphor/ui/elementeditor.ui:247
+msgid ""
+"Apply incoming changes from the conflicting model. Use Undo to revert "
+"changes."
+msgstr ""
+"முரண்பட்ட மாதிரியிலிருந்து உள்வரும் மாற்றங்களைப் பயன்படுத்துங்கள். "
+"மாற்றங்களைத் திருப்புவதற்கு செயல்தவிர் பயன்படுத்தவும்."
+
+#: gaphor/ui/elementeditor.ui:267
+msgid "Resolve"
+msgstr "தீர்க்க"
+
+#: gaphor/ui/errordialog.py:21
+msgid ""
+"It looks like Gaphor is started from the command line. Do you want to "
+"open a debug session?"
+msgstr ""
+"கட்டளை வரியிலிருந்து காஃபர் தொடங்கப்படுவது போல் தெரிகிறது. பிழைத்திருத்த "
+"அமர்வை திறக்க விரும்புகிறீர்களா?"
+
+#: gaphor/ui/errordialog.py:28
+msgid "Close"
+msgstr "மூடு"
+
+#: gaphor/ui/errordialog.py:30
+msgid "Start Debug Session"
+msgstr "பிழைத்திருத்த அமர்வைத் தொடங்கவும்"
+
+#: gaphor/ui/filedialog.py:14
+msgid "Gaphor Models"
+msgstr "KAPHOR மாதிரிகள்"
+
+#: gaphor/ui/filedialog.py:28
+msgid "Images"
+msgstr "படங்கள்"
+
+#: gaphor/ui/filedialog.py:40
+msgid "All Files"
+msgstr "அனைத்து கோப்புகள்"
+
+#: gaphor/ui/filedialog.py:100
+msgid "Flatpak Document Portal"
+msgstr "பிளாட்பாக் ஆவண போர்ட்டல்"
+
+#: gaphor/ui/filemanager.py:41
+msgid ""
+"Gaphor was not able to store the model, probably due to an internal "
+"error:\n"
+"{exc}\n"
+"If you think this is a bug, please contact the developers."
+msgstr ""
+"கஃபர் மாதிரியை சேமிக்க முடியவில்லை, அநேகமாக உள் பிழை காரணமாக இருக்கலாம்:\n"
+" {exc}\n"
+" இது ஒரு பிழை என்று நீங்கள் நினைத்தால், தயவுசெய்து டெவலப்பர்களைத் தொடர்பு"
+" கொள்ளுங்கள்."
+
+#: gaphor/ui/filemanager.py:45
+msgid ""
+"You do not have the permissions necessary to save the model.\n"
+"Please check that you typed the location correctly and try again."
+msgstr ""
+"மாதிரியைச் சேமிக்க தேவையான அனுமதிகள் உங்களிடம் இல்லை.\n"
+" நீங்கள் இருப்பிடத்தை சரியாக தட்டச்சு செய்துள்ளீர்களா என்பதைச் "
+"சரிபார்த்து மீண்டும் முயற்சிக்கவும்."
+
+#: gaphor/ui/filemanager.py:49
+msgid ""
+"You do not have enough free space on the device to save the model.\n"
+"Please free up some disk space and try again or save it in a different "
+"location."
+msgstr ""
+"மாதிரியைச் சேமிக்க சாதனத்தில் போதுமான இலவச இடம் உங்களிடம் இல்லை.\n"
+" தயவுசெய்து சில வட்டு இடத்தை விடுவித்து மீண்டும் முயற்சிக்கவும் அல்லது "
+"வேறு இடத்தில் சேமிக்கவும்."
+
+#: gaphor/ui/filemanager.py:52
+msgid ""
+"The model cannot be stored at this location:\n"
+"{exc}\n"
+"Please check that you typed the location correctly and try again."
+msgstr ""
+"இந்த இடத்தில் மாதிரியை சேமிக்க முடியாது:\n"
+" {exc}\n"
+" நீங்கள் இருப்பிடத்தை சரியாக தட்டச்சு செய்துள்ளீர்களா என்பதைச் "
+"சரிபார்த்து மீண்டும் முயற்சிக்கவும்."
+
+#: gaphor/ui/filemanager.py:117 gaphor/ui/filemanager.py:146
+msgid "Loading…"
+msgstr "ஏற்றுகிறது…"
+
+#: gaphor/ui/filemanager.py:118
+msgid "Loading model from {filename}"
+msgstr "{filename} இருந்து இலிருந்து மாதிரியை ஏற்றுகிறது"
+
+#: gaphor/ui/filemanager.py:147
+msgid "Loading current and incoming model"
+msgstr "தற்போதைய மற்றும் உள்வரும் மாதிரியை ஏற்றுகிறது"
+
+#: gaphor/ui/filemanager.py:209 gaphor/ui/filemanager.py:253
+msgid "Unable to open model “{filename}”."
+msgstr "மாதிரியைத் திறக்க முடியவில்லை “{filename}”."
+
+#: gaphor/ui/filemanager.py:212 gaphor/ui/filemanager.py:256
+msgid "This file does not contain a valid Gaphor model."
+msgstr "இந்த கோப்பில் செல்லுபடியாகும் காஃபர் மாதிரி இல்லை."
+
+#: gaphor/ui/filemanager.py:277
+msgid "Saving…"
+msgstr "சேமிப்பு…"
+
+#: gaphor/ui/filemanager.py:278
+msgid "Saving model to {filename}"
+msgstr "{filename} க்கு மாதிரி சேமிப்பு"
+
+#: gaphor/ui/filemanager.py:294
+msgid "Unable to save model “{filename}”."
+msgstr "மாதிரியை சேமிக்க முடியவில்லை “{filename}”."
+
+#: gaphor/ui/filemanager.py:306
+msgid "Model has been saved."
+msgstr "மாதிரி சேமிக்கப்பட்டுள்ளது."
+
+#: gaphor/ui/filemanager.py:332 gaphor/ui/filemanager.py:374
+msgid "Save Gaphor Model As"
+msgstr "கஃபர் மாதிரியை சேமிக்கவும்"
+
+#: gaphor/ui/filemanager.py:333 gaphor/ui/filemanager.py:376
+msgid "New Model"
+msgstr "புதிய மாதிரி"
+
+#: gaphor/ui/filemanager.py:394
+msgid "Resolve Merge Conflict?"
+msgstr "ஒன்றிணைக்கும் மோதலைத் தீர்க்கவா?"
+
+#: gaphor/ui/filemanager.py:395
+msgid ""
+"The model you are opening contains a merge conflict. Do you want to open "
+"the current model or the incoming change to the model?"
+msgstr ""
+"நீங்கள் திறக்கும் மாதிரியில் ஒன்றிணைக்கும் மோதல் உள்ளது. தற்போதைய "
+"மாதிரியை அல்லது உள்வரும் மாற்றத்தை மாதிரியில் திறக்க விரும்புகிறீர்களா?"
+
+#: gaphor/ui/filemanager.py:399 gaphor/ui/filemanager.py:414
+msgid "Cancel"
+msgstr "ரத்துசெய்"
+
+#: gaphor/ui/filemanager.py:400
+msgid "Open Merge Editor"
+msgstr "ஒன்றிணைக்கும் எடிட்டரை திறந்த"
+
+#: gaphor/ui/filemanager.py:401
+msgid "Open Current"
+msgstr "திறந்த மின்னோட்டம்"
+
+#: gaphor/ui/filemanager.py:402
+msgid "Open Incoming"
+msgstr "உள்வரும் திறக்க"
+
+#: gaphor/ui/filemanager.py:409
+msgid "Save Changes?"
+msgstr "மாற்றங்களைச் சேமிக்கவா?"
+
+#: gaphor/ui/filemanager.py:410
+msgid ""
+"The open model contains unsaved changes. Changes which are not saved will"
+" be permanently lost."
+msgstr ""
+"திறந்த மாதிரியில் சேமிக்கப்படாத மாற்றங்கள் உள்ளன. சேமிக்கப்படாத "
+"மாற்றங்கள் நிரந்தரமாக இழக்கப்படும்."
+
+#: gaphor/ui/filemanager.py:415
+msgid "Discard"
+msgstr "நிராகரிக்கவும்"
+
+#: gaphor/ui/filemanager.py:416 gaphor/ui/help/shortcuts.ui:233
+#: gaphor/ui/mainwindow.py:51
+msgid "Save"
+msgstr "சேமி"
+
+#: gaphor/ui/greeter.py:27
+msgid "Generic"
+msgstr "பொதுவான"
+
+#: gaphor/ui/greeter.py:28
+msgid "An empty model"
+msgstr "ஒரு வெற்று மாதிரி"
+
+#: gaphor/ui/greeter.py:35
+msgid "Unified Modeling Language template"
+msgstr "ஒருங்கிணைந்த மாடலிங் மொழி வார்ப்புரு"
+
+#: gaphor/ui/greeter.py:42
+msgid "Systems Modeling Language template"
+msgstr "சிச்டம்ச் மாடலிங் மொழி வார்ப்புரு"
+
+#: gaphor/ui/greeter.py:49
+msgid "Risk Analysis and Assessment Modeling Language template"
+msgstr "இடர் பகுப்பாய்வு மற்றும் மதிப்பீட்டு மாடலிங் மொழி வார்ப்புரு"
+
+#: gaphor/ui/greeter.py:56
+msgid "Layered C4 Model template"
+msgstr "அடுக்கு சி 4 மாதிரி வார்ப்புரு"
+
+#: gaphor/ui/greeter.py:65
+msgid "UML Example"
+msgstr "யுஎம்எல் சான்று"
+
+#: gaphor/ui/greeter.py:66
+msgid "Unified Modeling Language example model"
+msgstr "ஒருங்கிணைந்த மாடலிங் மொழி எடுத்துக்காட்டு மாதிரி"
+
+#: gaphor/ui/greeter.py:72
+msgid "SysML Example"
+msgstr "Sysml எடுத்துக்காட்டு"
+
+#: gaphor/ui/greeter.py:73
+msgid "Systems Modeling Language example model"
+msgstr "அமைப்புகள் மாடலிங் மொழி எடுத்துக்காட்டு மாதிரி"
+
+#: gaphor/ui/greeter.py:79
+msgid "RAAML Example"
+msgstr "ராம்ல் எடுத்துக்காட்டு"
+
+#: gaphor/ui/greeter.py:80
+msgid "Risk Analysis and Assessment Modeling Language example model"
+msgstr "இடர் பகுப்பாய்வு மற்றும் மதிப்பீட்டு மாடலிங் மொழி எடுத்துக்காட்டு மாதிரி"
+
+#: gaphor/ui/greeter.py:86
+msgid "C4 Model Example"
+msgstr "சி 4 மாதிரி எடுத்துக்காட்டு"
+
+#: gaphor/ui/greeter.py:87
+msgid "C4 Model example of a banking system"
+msgstr "சி 4 ஒரு வங்கி அமைப்பின் மாதிரி எடுத்துக்காட்டு"
+
+#: gaphor/ui/greeter.ui:8 gaphor/ui/greeter.ui:55 gaphor/ui/mainwindow.py:47
+msgid "Open Model…"
+msgstr "திறந்த மாதிரி…"
+
+#: gaphor/ui/greeter.ui:18 gaphor/ui/mainwindow.py:62
+msgid "Keyboard Shortcuts"
+msgstr "விசைப்பலகை குறுக்குவழிகள்"
+
+#: gaphor/ui/greeter.ui:22 gaphor/ui/help/about.ui:9 gaphor/ui/mainwindow.py:63
+msgid "About Gaphor"
+msgstr "கஃபர் பற்றி"
+
+#: gaphor/ui/greeter.ui:86
+msgid "Recently Opened"
+msgstr "அண்மைக் காலத்தில் திறக்கப்பட்டது"
+
+#: gaphor/ui/greeter.ui:103
+msgid "Create New Model"
+msgstr "புதிய மாதிரியை உருவாக்கவும்"
+
+#: gaphor/ui/help/shortcuts.ui:219 gaphor/ui/mainwindow.py:46
+msgid "New Model…"
+msgstr "புதிய மாடல்…"
+
+#: gaphor/ui/help/shortcuts.ui:240 gaphor/ui/mainwindow.py:52
+msgid "Save As…"
+msgstr "சேமிக்கவும்…"
+
+#: gaphor/ui/mainwindow.py:53
+msgid "Export"
+msgstr "ஏற்றுமதி"
+
+#: gaphor/ui/mainwindow.py:57
+msgid "Tools"
+msgstr "கருவிகள்"
+
+#: gaphor/ui/mainwindow.py:255
+msgid "Press F11 to exit Fullscreen"
+msgstr "முழுத்திரை வெளியேற F11 ஐ அழுத்தவும்"
+
+#: gaphor/ui/mainwindow.py:311
+msgid "Profile: {name}"
+msgstr "சுயவிவரம்: {name}"
+
+#: gaphor/ui/mainwindow.ui:43
+msgid "Open application menu"
+msgstr "பயன்பாட்டு மெனுவைத் திறக்கவும்"
+
+#: gaphor/ui/mainwindow.ui:50
+msgid "New diagram menu"
+msgstr "புதிய வரைபட பட்டியல்"
+
+#: gaphor/ui/help/shortcuts.ui:82 gaphor/ui/mainwindow.ui:138
+msgid "Toggle Model Preferences"
+msgstr "மாதிரி விருப்பங்களை மாற்றவும்"
+
+#: gaphor/ui/help/shortcuts.ui:75 gaphor/ui/mainwindow.ui:153
+msgid "Toggle Property Editor"
+msgstr "சொத்து எடிட்டரை மாற்றவும்"
+
+#: gaphor/ui/modelbrowser.py:403
+msgid "New _Package"
+msgstr "புதிய _ பேக்கேச்"
+
+#: gaphor/ui/modelbrowser.py:572
+msgid "_Open"
+msgstr "_OPEN"
+
+#: gaphor/ui/modelbrowser.py:572
+msgid "Add to diagram"
+msgstr "வரைபடத்தில் சேர்க்கவும்"
+
+#: gaphor/ui/modelbrowser.py:575
+msgid "_Rename"
+msgstr "_ரினேம்"
+
+#: gaphor/ui/modelbrowser.py:581
+msgid "New _Diagram"
+msgstr "புதிய _diagram"
+
+#: gaphor/ui/modelbrowser.py:588
+msgid "New _Element"
+msgstr "புதிய _ எலிமென்ட்"
+
+#: gaphor/ui/modelbrowser.py:594
+msgid "De_lete"
+msgstr "நீக்கு (_l)"
+
+#: gaphor/ui/modelbrowser.py:604
+msgid "Show in “{diagram}”"
+msgstr "“{diagram}” இல் காண்பி"
+
+#: gaphor/ui/modelchanged.ui:6
+msgid "Model Changed on Disk"
+msgstr "மாதிரி வட்டில் மாற்றப்பட்டது"
+
+#: gaphor/ui/modelchanged.ui:7
+msgid "Discard Changes and Reload"
+msgstr "மாற்றங்களை நிராகரித்து மீண்டும் ஏற்றவும்"
+
+#: gaphor/ui/help/__init__.py:73
+msgid "Restart Gaphor to enable language changes"
+msgstr "மொழி மாற்றங்களை இயக்க கஃபரை மறுதொடக்கம் செய்யுங்கள்"
+
+#: gaphor/ui/help/about.ui:12
+msgid ""
+"Copyright © 2001 The Gaphor Development Team.\n"
+"\n"
+"UML, SysML, and RAAML are either registered trademarks or trademarks of "
+"Object Management Group, Inc. in the United States and/or other "
+"countries."
+msgstr ""
+"பதிப்புரிமை © 2001 காஃபர் மேம்பாட்டுக் குழு.\n"
+"\n"
+" யுஎம்எல், சிச்எம்எல் மற்றும் ராம்ல் ஆகியவை அமெரிக்கா மற்றும்/அல்லது பிற "
+"நாடுகளில் உள்ள பொருள் மேலாண்மை குழு, இன்க் இன் பதிவு செய்யப்பட்ட வர்த்தக "
+"முத்திரைகள் அல்லது வர்த்தக முத்திரைகள்."
+
+#: gaphor/ui/help/about.ui:20
+msgid ""
+"Licensed under the Apache License, Version 2.0 (the \"License\"); you may"
+" not use this application except in compliance with the License. You may "
+"obtain a copy of the License at\n"
+"\n"
+"    http://www.apache.org/licenses/LICENSE-2.0\n"
+"\n"
+"Unless required by applicable law or agreed to in writing, software "
+"distributed under the License is distributed on an \"AS IS\" BASIS, "
+"WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. "
+"See the License for the specific language governing permissions and "
+"limitations under the License."
+msgstr ""
+"அப்பாச்சி உரிமத்தின் கீழ் உரிமம் பெற்றது, பதிப்பு 2.0 (\"உரிமம்\"); "
+"உரிமத்திற்கு இணங்கத் தவிர நீங்கள் இந்த விண்ணப்பத்தைப் பயன்படுத்தக்கூடாது."
+" நீங்கள் உரிமத்தின் நகலைப் பெறலாம்\n"
+"\n"
+" http://www.apache.org/licenses/license-2.0\n"
+"\n"
+" பொருந்தக்கூடிய சட்டத்தால் தேவைப்படாவிட்டால் அல்லது எழுத்துப்பூர்வமாக "
+"ஒப்புக் கொள்ளப்படாவிட்டால், உரிமத்தின் கீழ் விநியோகிக்கப்படும் மென்பொருள்"
+" ஒரு \"அப்படியே\" அடிப்படையில், எந்தவொரு உத்தரவாதங்களும் நிபந்தனைகளும் "
+"இல்லாமல், வெளிப்படையான அல்லது மறைமுகமாக விநியோகிக்கப்படுகிறது. உரிமத்தின்"
+" கீழ் குறிப்பிட்ட மொழி ஆளும் அனுமதிகள் மற்றும் வரம்புகளுக்கான உரிமத்தைப் "
+"பார்க்கவும்."
+
+#: gaphor/ui/help/preferences.ui:9
+msgid "Appearance"
+msgstr "தோற்றம்"
+
+#: gaphor/ui/help/preferences.ui:13
+msgid "Colors"
+msgstr "நிறங்கள்"
+
+#: gaphor/ui/help/preferences.ui:21
+msgid "Dark"
+msgstr "இருண்ட"
+
+#: gaphor/ui/help/preferences.ui:22
+msgid "Light"
+msgstr "ஒளி"
+
+#: gaphor/ui/help/preferences.ui:32
+msgid "Language"
+msgstr "மொழி"
+
+#: gaphor/ui/help/preferences.ui:35
+msgid "Change from System Language to English"
+msgstr "கணினி மொழியிலிருந்து ஆங்கிலத்திற்கு மாற்றவும்"
+
+#: gaphor/ui/help/preferences.ui:42
+#, fuzzy
+msgid "Editing"
+msgstr "திசை"
+
+#: gaphor/ui/help/preferences.ui:45
+msgid "Reset Tool Automatically"
+msgstr "கருவியை தானாக மீட்டமைக்கவும்"
+
+#: gaphor/ui/help/preferences.ui:46
+msgid "After an element is created, switch back to the pointer tool."
+msgstr ""
+
+#: gaphor/ui/help/preferences.ui:51
+msgid "Remove Unused Elements"
+msgstr "பயன்படுத்தப்படாத கூறுகளை அகற்றவும்"
+
+#: gaphor/ui/help/preferences.ui:52
+msgid "Automatically remove elements no longer in use in any diagram."
+msgstr "எந்தவொரு வரைபடத்திலும் இனி பயன்பாட்டில் இல்லாத கூறுகளை தானாக அகற்றவும்."
+
+#: gaphor/ui/help/shortcuts.ui:4 gaphor/ui/help/shortcuts.ui:11
+#, fuzzy
+msgid "Shortcuts"
+msgstr "விசைப்பலகை குறுக்குவழிகள்"
+
+#: gaphor/ui/help/shortcuts.ui:46
+msgid "Quit Gaphor"
+msgstr "கிளா கஃபர்"
+
+#: gaphor/ui/help/shortcuts.ui:56
+msgid "Model"
+msgstr "மாதிரியுரு"
+
+#: gaphor/ui/help/shortcuts.ui:61
+msgid "Rename"
+msgstr "மறுபெயரிடுங்கள்"
+
+#: gaphor/ui/help/shortcuts.ui:68
+msgid "Search"
+msgstr "தேடல்"
+
+#: gaphor/ui/help/shortcuts.ui:89
+msgid "Close Diagram"
+msgstr "வரைபடத்தை மூடு"
+
+#: gaphor/ui/help/shortcuts.ui:96
+msgid "Toggle Fullscreen"
+msgstr "மாற்று முழுத்திரை"
+
+#: gaphor/ui/help/shortcuts.ui:106
+msgid "Undo and Redo"
+msgstr "செயல்தவிர் மற்றும் மீண்டும்"
+
+#: gaphor/ui/help/shortcuts.ui:128
+msgid "Selections"
+msgstr "தேர்வுகள்"
+
+#: gaphor/ui/help/shortcuts.ui:133
+msgid "Select All"
+msgstr "அனைத்தையும் தெரிவுசெய்"
+
+#: gaphor/ui/help/shortcuts.ui:140
+msgid "Deselect All"
+msgstr "அனைத்தையும் தேர்வு செய்யுங்கள்"
+
+#: gaphor/ui/help/shortcuts.ui:150
+msgid "Copy and Paste"
+msgstr "நகலெடுத்து ஒட்டவும்"
+
+#: gaphor/ui/help/shortcuts.ui:155
+msgid "Copy"
+msgstr "நகலெடு"
+
+#: gaphor/ui/help/shortcuts.ui:162
+msgid "Cut"
+msgstr "வெட்டு"
+
+#: gaphor/ui/help/shortcuts.ui:169
+msgid "Paste (link defining elements)"
+msgstr "ஒட்டுதல் (இணைப்புகளை வரையறுக்கும் உறுப்புகளை)"
+
+#: gaphor/ui/help/shortcuts.ui:176
+msgid "Paste (copy defining elements)"
+msgstr "ஒட்டுதல் (நகலெடு வரையறுக்கும் கூறுகள்)"
+
+#: gaphor/ui/help/shortcuts.ui:186
+msgid "Zoom"
+msgstr "பெரிதாக்கு"
+
+#: gaphor/ui/help/shortcuts.ui:214
+msgid "Files"
+msgstr "கோப்புகள்"
+
+#: gaphor/ui/help/shortcuts.ui:226
+msgid "Open a Model…"
+msgstr "ஒரு மாதிரியைத் திறக்கவும்…"
+
+#: gaphor/ui/modelmerge/organize.py:137
+msgid "Update diagram “{name}”"
+msgstr "வரைபடத்தைப் புதுப்பிக்கவும் “{name}”"
+
+#: gaphor/ui/modelmerge/organize.py:177 gaphor/ui/modelmerge/organize.py:317
+msgid "Update element “{name}”"
+msgstr "புதுப்பிப்பு உறுப்பு “{name}”"
+
+#: gaphor/ui/modelmerge/organize.py:182
+msgid "Update element of type “{type}”"
+msgstr "“{type}” வகையின் உறுப்பு புதுப்பிப்பு"
+
+#: gaphor/ui/modelmerge/organize.py:255
+msgid "Update presentation “{type}”"
+msgstr "விளக்கக்காட்சியைப் புதுப்பிக்கவும் “{type}”"
+
+#: gaphor/ui/modelmerge/organize.py:281
+msgid "Add presentation of type {type}"
+msgstr "{type} வகை விளக்கக்காட்சியைச் சேர்க்கவும்"
+
+#: gaphor/ui/modelmerge/organize.py:285
+msgid "Remove presentation of type {type}"
+msgstr "{type} வகை விளக்கக்காட்சியை அகற்று"
+
+#: gaphor/ui/modelmerge/organize.py:290
+msgid "Update presentation “{name}”"
+msgstr "விளக்கக்காட்சியைப் புதுப்பிக்கவும் “{name}”"
+
+#: gaphor/ui/modelmerge/organize.py:292
+msgid "Update presentation of type {type}"
+msgstr "வகை {type} இன் புதுப்பிப்பு விளக்கக்காட்சி"
+
+#: gaphor/ui/modelmerge/organize.py:299
+msgid "Add {type} “{name}”"
+msgstr "{type} “{name}” ஐச் சேர்க்கவும்"
+
+#: gaphor/ui/modelmerge/organize.py:303
+msgid "Add element of type {type}"
+msgstr "{type} வகையின் உறுப்பைச் சேர்க்கவும்"
+
+#: gaphor/ui/modelmerge/organize.py:309
+msgid "Remove element “{name}”"
+msgstr "“{name}” என்ற உறுப்பை அகற்று"
+
+#: gaphor/ui/modelmerge/organize.py:311
+msgid "Remove element of type {type}"
+msgstr "{type} வகையின் உறுப்பை அகற்று"
+
+#: gaphor/ui/modelmerge/organize.py:319
+msgid "Update element of type {type}"
+msgstr "{type} வகையின் உறுப்பு புதுப்பிப்பு"
+
+#: gaphor/ui/modelmerge/organize.py:326
+msgid "Add relation “{name}” to “{ref_name}”"
+msgstr "“{name}” உறவை “{ref_name}” இல் சேர்க்கவும்"
+
+#: gaphor/ui/modelmerge/organize.py:328
+msgid "Remove relation “{name}” to “{ref_name}”"
+msgstr "“{name}” உறவை “{ref_name}” க்கு அகற்று"
+
+#: gaphor/ui/modelmerge/organize.py:330
+msgid "Update relation “{name}” to “{ref_name}”"
+msgstr "“{name}” என்ற உறவைப் புதுப்பிக்கவும் “{ref_name}”"
+
+#: gaphor/ui/modelmerge/organize.py:337
+msgid "Add relation “{name}”"
+msgstr "“{name}” உறவைச் சேர்க்கவும்"
+
+#: gaphor/ui/modelmerge/organize.py:339
+msgid "Remove relation “{name}”"
+msgstr "“{name}” உறவை அகற்று"
+
+#: gaphor/ui/modelmerge/organize.py:341
+msgid "Update relation “{name}”"
+msgstr "புதுப்பிப்பு உறவு “{name}”"
+
+#: gaphor/ui/tests/test_modelbrowser.py:330
+msgid "general: General"
+msgstr "பொது: பொது"
+
+#~ msgid "A."
+#~ msgstr ""
+
+#~ msgid "S."
+#~ msgstr ""
+
+#~ msgid "Do Activity"
+#~ msgstr ""
+
+#~ msgid "Note or Remark"
+#~ msgstr ""
+
+#~ msgid "The (spoken) language used in this model."
+#~ msgstr ""
+
+#~ msgid "upperBound"
+#~ msgstr "நபர்"
+
+#~ msgid "ordering"
+#~ msgstr ""
+
+#~ msgid "Flatpak Document Portal"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Copyright © 2001-2023 Arjan Molenaar and Dan Yeaw.\n"
+#~ "\n"
+#~ "UML, SysML, and RAAML are either "
+#~ "registered trademarks or trademarks of "
+#~ "Object Management Group, Inc. in the "
+#~ "United States and/or other countries."
+#~ msgstr ""
+
+#~ msgid "Recently Opened"
+#~ msgstr ""
+
+#~ msgid "Export as XMI"
+#~ msgstr ""
+
+#~ msgid "Export model as XMI (XML Model Interchange) format"
+#~ msgstr ""
+
+#~ msgid "Export model as XMI file"
+#~ msgstr ""
+
+#~ msgid "All XMI Files"
+#~ msgstr ""
+
+#~ msgid "New State Machine Diagram"
+#~ msgstr ""
+
+#~ msgid "New Class"
+#~ msgstr "புதிய வகுப்பு வரைபடம்"
+
+#~ msgid "New Enumeration"
+#~ msgstr ""
+
+#~ msgid "New Primitive Type"
+#~ msgstr ""
+
+#~ msgid "New Person"
+#~ msgstr "நபர்"
+
+#~ msgid "New FTA Diagram"
+#~ msgstr ""
+
+#~ msgid "New STPA Diagram"
+#~ msgstr ""
+
+#~ msgid "New Top Event"
+#~ msgstr "புதிய கூறு"
+
+#~ msgid "New Loss"
+#~ msgstr ""
+
+#~ msgid "New Hazard"
+#~ msgstr ""
+
+#~ msgid "New Situation"
+#~ msgstr ""
+
+#~ msgid "New Block Definition Diagram"
+#~ msgstr ""
+
+#~ msgid "New Internal Block Diagram"
+#~ msgstr ""
+
+#~ msgid "New Package Diagram"
+#~ msgstr ""
+
+#~ msgid "New Requirement Diagram"
+#~ msgstr ""
+
+#~ msgid "New Use Case Diagram"
+#~ msgstr ""
+
+#~ msgid "New Actor"
+#~ msgstr "புதிய கொள்கலன்"
+
+#~ msgid "New Interface Block"
+#~ msgstr ""
+
+#~ msgid "New Requirement"
+#~ msgstr ""
+
+#~ msgid "New Use Case"
+#~ msgstr ""
+
+#~ msgid "New Value Type"
+#~ msgstr ""
+
+#~ msgid "New Component Diagram"
+#~ msgstr ""
+
+#~ msgid "New Deployment Diagram"
+#~ msgstr ""
+
+#~ msgid "New Communication Diagram"
+#~ msgstr ""
+
+#~ msgid "New Profile Diagram"
+#~ msgstr ""
+
+#~ msgid "New Artifact"
+#~ msgstr ""
+
+#~ msgid "New Device"
+#~ msgstr ""
+
+#~ msgid "New Instance Specification"
+#~ msgstr ""
+
+#~ msgid "New Node"
+#~ msgstr "புதிய தரவுத்தளம்"
+
+#~ msgid "New Profile"
+#~ msgstr ""
+
+#~ msgid "New Stereotype"
+#~ msgstr "புதிய மென்பொருள் அமைப்பு"
+
+#~ msgid "New Generic Diagram"
+#~ msgstr ""
+
+#~ msgid "Align vertical center"
+#~ msgstr "செங்குத்து மையத்தை சீரமைக்கவும்"
+
+#~ msgid "New diagram"
+#~ msgstr "புதிய வரைபடம்"
+
+#~ msgid "{name} package"
+#~ msgstr "{name} தொகுப்பு"
+
+#~ msgid "New package"
+#~ msgstr "புதிய தொகுப்பு"
